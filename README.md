@@ -18,3 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Thanks to [@Kaweees](https://github.com//Kaweees/blob/master/README.md?plain=1) for the example of how setup the [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats#readme) cards.
+
+__Updated Fall 2023__
+
