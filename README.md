@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### Stats
+
 ![BobSaidHi's GitHub stats](https://github-readme-stats.vercel.app/api?username=BobSaidHi&show_icons=true&theme=transparent)
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo)--!>
@@ -19,9 +21,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br>
+
+### Special Thanks
+
 Thanks to [@Kaweees](https://github.com//Kaweees/blob/master/README.md?plain=1) for the example of how setup the [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats#readme) cards.
 
 <br>
 <br>
-__Updated Fall 2023__
+
+_Updated Fall 2023_
 
