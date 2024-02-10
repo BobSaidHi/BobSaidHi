@@ -28,5 +28,5 @@ Thanks to [@Kaweees](https://github.com/Kaweees/Kaweees/blob/master/README.md) f
 <br>
 <br>
 
-_Updated Fall 2023_
+_Updated Winter 2024_
 
