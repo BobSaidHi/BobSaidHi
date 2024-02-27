@@ -2,7 +2,7 @@
 
 ### Stats
 
-![BobSaidHi's GitHub stats](https://github-readme-stats.vercel.app/api?username=BobSaidHi&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing)
+![BobSaidHi's GitHub stats](https://github-readme-stats-bobsaidhis-projects.vercel.app/api?username=BobSaidHi&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing)
 
 <!--
 **BobSaidHi/BobSaidHi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
