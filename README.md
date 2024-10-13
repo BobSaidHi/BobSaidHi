@@ -12,12 +12,8 @@
 -->
 
 <!-- Privae Instance w/ better formatting -->
-<a href="https://github-readme-stats-omega-drab-90.vercel.app/api?username=BobSaidHi&show_icons=true&theme=transparent">
-  <img height=200 align="center" src="https://github-readme-stats-omega-drab-90.vercel.app/api?username=BobSaidHi&show_icons=true&theme=transparent" />
-</a>
-<a href="https://github-readme-stats-omega-drab-90.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing">
-  <img height=200 align="center" src="https://github-readme-stats-omega-drab-90.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing" />
-</a>
+<img height=300 align="center" src="https://github-readme-stats-omega-drab-90.vercel.app/api?username=BobSaidHi&show_icons=true&theme=transparent" />
+<img height=300 align="center" src="https://github-readme-stats-omega-drab-90.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing" />
 
 <!--
 **BobSaidHi/BobSaidHi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
