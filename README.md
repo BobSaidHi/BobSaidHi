@@ -6,14 +6,18 @@
 ![BobSaidHi's GitHub stats](https://github-readme-stats.vercel.app/api?username=BobSaidHi&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing)
 -->
 
-<!-- Private Instance, slightly more accurate, espially for the main stats card -->
-<!-- This allighment is still elss than ideal though
+<!-- Private Instance, slightly more accurate, especially for the main stats card -->
+<!-- This alignment is still less than ideal though
 ![BobSaidHi's GitHub stats](https://github-readme-stats-omega-drab-90.vercel.app/api?username=BobSaidHi&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats-omega-drab-90.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing)
 -->
 
-<!-- Privae Instance w/ better formatting -->
-<img height=300 align="center" src="https://github-readme-stats-omega-drab-90.vercel.app/api?username=BobSaidHi&show_icons=true&theme=transparent" />
-<img height=300 align="center" src="https://github-readme-stats-omega-drab-90.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing" />
+<!-- Private Instance w/ better formatting -->
+<a href="https://github-readme-stats-omega-drab-90.vercel.app/api?username=BobSaidHi&show_icons=true&theme=transparent">
+  <img height=300 align="center" src="https://github-readme-stats-omega-drab-90.vercel.app/api?username=BobSaidHi&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github-readme-stats-omega-drab-90.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing">
+  <img height=300 align="center" src="https://github-readme-stats-omega-drab-90.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing" />
+</a>
 
 <!--
 **BobSaidHi/BobSaidHi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
