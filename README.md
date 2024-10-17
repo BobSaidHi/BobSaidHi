@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <!-- Private Instance w/ better formatting -->
 <div>
 <img height=225 align="center" src="https://github-readme-stats-omega-drab-90.vercel.app/api?username=BobSaidHi&show_icons=true&theme=transparent" />
-<img height=225 align="center" src="https://github-readme-stats-omega-drab-90.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing" />
+<img height=225 align="center" src="https://github-readme-stats-omega-drab-90.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing,C&size_weight=0.75&count_weight=0.25" />
 </div>
 
 <!-- Manual Count
