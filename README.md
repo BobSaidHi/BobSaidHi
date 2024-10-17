@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 Only Counting Top Langs Per Repo (Affects mixed C++ and Python repos)
 
 LANG	  REPOS	FILES	PERCENTAGE R / F
-SV      05		100		10% / 22%
 Java	  27		278		53% / 63%
+SV      05		100		10% / 22%
+Python	13		036		25% / 08%
 C++/C	  05	  20		10% / 05%
 ASM		  01	  013		02% / 03%
-Python	13		036		25% / 08%
 TOTAL	  51		439		100% / 100%
 -->
 
