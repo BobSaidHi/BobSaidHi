@@ -40,6 +40,8 @@ Here are some ideas to get you started:
 > 
 > Mixed C++ and Python repositories are not counted properly.
 > Mixed SystemVerilog, Other HDL, and Assembly repositories are not counted properly
+>
+> _Updated Fall 2024_
 
 | Language 	  | Repositories Count	| Files Count	| Perecentage Repos / Files |
 | ---     | ---   | ---   | ---       |
@@ -60,5 +62,5 @@ Thanks to [@Kaweees](https://github.com/Kaweees/Kaweees/blob/master/README.md) f
 <br>
 <br>
 
-_Updated Winter 2024_
+_Updated Fall 2024_
 
