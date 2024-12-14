@@ -13,6 +13,7 @@ JetBrains
 Kaweees
 Mech
 ODrive
+PuTTY
 Pycharm
 PySimpleGui
 PyVISA
