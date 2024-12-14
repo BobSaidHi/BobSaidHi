@@ -1,8 +1,8 @@
 {
     "recommendations": [
-        "streetsidesoftware.code-spell-checker",
-        "davidanson.vscode-markdownlint",
         "bierner.markdown-preview-github-styles",
-        "earshinov.permute-lines"
+        "davidanson.vscode-markdownlint",
+        "earshinov.permute-lines",
+        "streetsidesoftware.code-spell-checker"
     ]
 }
