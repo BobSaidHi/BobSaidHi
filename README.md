@@ -138,7 +138,7 @@ Here are some ideas to get you started:
 
 Thanks to [@Kaweees](https://github.com/Kaweees/Kaweees/blob/master/README.md) for the example of how setup the [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats#readme) cards.
 
-The inclusion of my some of the technologoies I am famiilar with was inspired by an adapted from [@samarjitsahoo](https://github.com/samarjitsahoo#-my-tech-stack).  Most icons were obtained from [WorldVectorLogo](https://worldvectorlogo.com)
+The inclusion of my some of the technologoies I am famiilar with was inspired by an adapted from [@samarjitsahoo](https://github.com/samarjitsahoo#-my-tech-stack).  Most icons were obtained from [WorldVectorLogo](https://worldvectorlogo.com).  The WPILib Icon is based off of [their offial generic icon](https://github.com/wpilibsuite/branding/blob/main/wpilib-generic.svg) but rearanged into their secondary (square / profile) format per [their guidelines](https://github.com/wpilibsuite/branding/blob/main/WPILib-Logo-Branding-Guidelines-2024.pdf).  I obtained the AMD / Xilinx Vivado Icon from [Flathub](https://flathub.org/apps/com.github.corna.Vivado).
 
 <br>
 <br>
