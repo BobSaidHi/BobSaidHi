@@ -1,3 +1,17 @@
+ASM
+Flathub
+FPGA
+GitLab
+HDL
+Kaweees
 Mech
 README.md
+Repos
+samarjitsahoo
+SystemVerilog
+Verilog
+Vivado
+WorldVectorLogo
+WPILib
+Xilinx
 
