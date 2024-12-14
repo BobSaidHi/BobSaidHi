@@ -70,7 +70,7 @@ Here are some ideas to get you started:
     <!-- C++ -->
     <td align="center">
       <div style="min-width:80px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ Logo" width="65" height="65" />
+        <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ Logo" width="65"/>
         <br>
         <b>C++ 11+</b>
         <br>
@@ -79,7 +79,7 @@ Here are some ideas to get you started:
     </td>
     <td align="center">
       <div style="min-width:80px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino Logo" width="65" height="65" />
+        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino Logo" width="65"/>
         <br>
         <b>Arduino</b>
         <br>
@@ -89,7 +89,7 @@ Here are some ideas to get you started:
     <!-- Java -->
     <td align="center">
       <div style="min-width:80px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="Java Logo" width="65" height="65" />
+        <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="Java Logo" width="65"/>
         <br>
         <b>Java 8+</b>
         <br>
@@ -99,7 +99,7 @@ Here are some ideas to get you started:
     <td align="center">
       <div style="min-width:80px;">
         <img src="https://github.com/user-attachments/assets/0612e8f0-f786-4159-861a-738c06d36ccf" alt="WPILib Logo"
-          width="65" height="65" />
+          width="65"/>
         <br>
         <b>WPILib</b>
         <br>
@@ -109,7 +109,7 @@ Here are some ideas to get you started:
     <!-- Python -->
     <td align="center">
       <div style="min-width:80px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="65" height="65" />
+        <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="65"/>
         <br>
         <b>Python 3</b>
         <br>
@@ -145,7 +145,7 @@ Here are some ideas to get you started:
       <div style="min-width:140px;">
         <img
           src="https://flathub.org/_next/image?url=https%3A%2F%2Fdl.flathub.org%2Fmedia%2Fcom%2Fgithub%2Fcorna.Vivado%2F07ad2cd5a0a53383dce2081f799f9726%2Ficons%2F128x128%2Fcom.github.corna.Vivado.png&w=256&q=100"
-          alt="Vivado Logo" width="65" height="65" />
+          alt="Vivado Logo" width="65"/>
         <br>
         AMD (Xilinx) <b>Vivado</b>
         <br>
@@ -155,7 +155,7 @@ Here are some ideas to get you started:
     <!-- Markup Languages -->
     <td align="center">
       <div style="min-width:80px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="65" height="65" />
+        <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="65"/>
         <br>
         <b>HTML</b>
         <br>
@@ -164,7 +164,7 @@ Here are some ideas to get you started:
     </td>
     <td align="center">
       <div style="min-width:80px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/markdown.svg" alt="Markdown Logo" width="65" height="65" />
+        <img src="https://cdn.worldvectorlogo.com/logos/markdown.svg" alt="Markdown Logo" width="65"/>
         <br>
         <b>Markdown</b>
         <br>
@@ -180,8 +180,7 @@ Here are some ideas to get you started:
     </td>
     <td align="center">
       <div style="min-width:140px;">
-        <img src="https://ivifoundation.org/assets/images/square-logo.png" alt="IVI Foundation Logo" width="65"
-          height="65" />
+        <img src="https://ivifoundation.org/assets/images/square-logo.png" alt="IVI Foundation Logo" width="65"/>
         <br>
         <b>Standard Commands for Programmable Instruments (SCPI)</b>
         <br>
@@ -206,7 +205,7 @@ Here are some ideas to get you started:
     </td>
     <td align="center">
       <div style="min-width:80px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/draw-io.svg" alt="Draw.io Logo" width="65" height="65" />
+        <img src="https://cdn.worldvectorlogo.com/logos/draw-io.svg" alt="Draw.io Logo" width="65"/>
         <br>
         <b>Draw.io</b>
         <br>
@@ -223,8 +222,7 @@ Here are some ideas to get you started:
     <!-- OS -->
     <td align="center">
       <div style="min-width:80px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" alt="Windows 10 Logo" width="65"
-          height="65" />
+        <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" alt="Windows 10 Logo" width="65"/>
         <br>
         <b>Windows 7/8/10+</b>
         <br>
@@ -233,7 +231,7 @@ Here are some ideas to get you started:
     </td>
     <td align="center">
       <div style="min-width:80px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/debian-2.svg" alt="Debian Logo" width="65" height="65" />
+        <img src="https://cdn.worldvectorlogo.com/logos/debian-2.svg" alt="Debian Logo" width="65"/>
         <br>
         <b>Debian Linux</b>
         <br>
@@ -242,7 +240,7 @@ Here are some ideas to get you started:
     <!-- Developer Platforms -->
     <td align="center">
       <div style="min-width:80px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub Logo" width="65" height="65" />
+        <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub Logo" width="65"/>
         <br>
         <b>GitHub</b>
         <br>
@@ -259,7 +257,7 @@ Here are some ideas to get you started:
     </td>
     <td align="center">
       <div style="min-width:80px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="GitLab Logo" width="65" height="65" />
+        <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="GitLab Logo" width="65"/>
         <br>
         <b>GitLab</b>
         <br>
@@ -268,8 +266,7 @@ Here are some ideas to get you started:
     <!-- IDEs -->
     <td align="center">
       <div style="min-width:80px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code Logo" width="65"
-          height="65" />
+        <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code Logo" width="65"/>
         <br>
         Microsoft <b>Visual Studio Code</b>
         <br>
@@ -278,8 +275,7 @@ Here are some ideas to get you started:
     </td>
     <td align="center">
       <div style="min-width:80px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/jetbrains-pycharm.svg" alt="PyCharm Logo" width="65"
-          height="65" />
+        <img src="https://cdn.worldvectorlogo.com/logos/jetbrains-pycharm.svg" alt="PyCharm Logo" width="65"/>
         <br>
         JetBrains <b>Pycharm</b>
         <br>
@@ -288,8 +284,7 @@ Here are some ideas to get you started:
     </td>
     <td align="center">
       <div style="min-width:80px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="JetBrains IDEA Logo" width="65"
-          height="65" />
+        <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="JetBrains IDEA Logo" width="65"/>
         <br>
         JetBrains <b>IDEA</b>
         <br>
@@ -298,7 +293,7 @@ Here are some ideas to get you started:
     </td>
     <td align="center">
       <div style="min-width:80px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" alt="Eclipse Logo" width="65" height="65" />
+        <img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" alt="Eclipse Logo" width="65"/>
         <br>
         <b>Eclipse</b>
         <br>
@@ -307,7 +302,7 @@ Here are some ideas to get you started:
     </td>
     <td align="center">
       <div style="min-width:80px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/notepadd-.svg" alt="Notepad++ Logo" width="65" height="65" />
+        <img src="https://cdn.worldvectorlogo.com/logos/notepadd-.svg" alt="Notepad++ Logo" width="65"/>
         <br>
         <b>Notepad++</b>
         <br>
