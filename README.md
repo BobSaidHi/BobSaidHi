@@ -26,11 +26,13 @@ Here are some ideas to get you started:
 ![BobSaidHi's GitHub stats](https://github-readme-stats-omega-drab-90.vercel.app/api?username=BobSaidHi&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats-omega-drab-90.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing)
 -->
 
+<!-- Begin HTML -->
 <!-- Private Instance w/ better formatting -->
 <div>
 <img height=225 align="center" src="https://github-readme-stats-omega-drab-90.vercel.app/api?username=BobSaidHi&show_icons=true&theme=transparent" alt="BobSaidHi's GitHub Stats"/>
 <img height=225 align="center" src="https://github-readme-stats-omega-drab-90.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing,C&size_weight=0.75&count_weight=0.25" alt="BobSaidHi's Most Used Languages"/>
 </div>
+<!-- End HTML -->
 
 > *Language Statistics Method/ Weights:* 75% by byte count, 25% by repository count, excluding forked repositories and contributions to other users/organizations.  I feel this weighting portrays my statistics more accurately.
 
@@ -345,13 +347,21 @@ The inclusion of my some of the technologies I am familiar with was inspired by 
 
 ### [@BobSaidHi/BobSaidHi](https://github.com/BobSaidHi/BobSaidHi) Repository Actions Status
 
-[![Compress images](https://github.com/BobSaidHi/BobSaidHi/actions/workflows/imageActions.yml/badge.svg)](https://github.com/BobSaidHi/BobSaidHi/actions/workflows/imageActions.yml)
-
-[![Dependabot Updates](https://github.com/BobSaidHi/BobSaidHi/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/BobSaidHi/BobSaidHi/actions/workflows/dependabot/dependabot-updates)
-
-[![Markdown Linter](https://github.com/BobSaidHi/BobSaidHi/actions/workflows/markdownwonLinter.yml/badge.svg)](https://github.com/BobSaidHi/BobSaidHi/actions/workflows/markdownwonLinter.yml)
-
-[![Spellcheck Action](https://github.com/BobSaidHi/BobSaidHi/actions/workflows/spell.yml/badge.svg)](https://github.com/BobSaidHi/BobSaidHi/actions/workflows/spell.yml)
+<!-- Begin HTML -->
+<div>
+  <a href="https://github.com/BobSaidHi/BobSaidHi/actions/workflows/imageActions.yml"><img align="left"
+      src="https://github.com/BobSaidHi/BobSaidHi/actions/workflows/imageActions.yml/badge.svg"
+      alt="Compress Images" /></a>
+  <a href="https://github.com/BobSaidHi/BobSaidHi/actions/workflows/dependabot/dependabot-updates"><img align="left"
+      src="https://github.com/BobSaidHi/BobSaidHi/actions/workflows/dependabot/dependabot-updates/badge.svg"
+      alt="Dependabot Updates" /></a>
+  <a href="https://github.com/BobSaidHi/BobSaidHi/actions/workflows/markdownwonLinter.yml"><img align="left"
+      src="https://github.com/BobSaidHi/BobSaidHi/actions/workflows/markdownwonLinter.yml/badge.svg"
+      alt="Markdown Linter" /></a>
+  <a href="https://github.com/BobSaidHi/BobSaidHi/actions/workflows/spell.yml"><img align="left"
+      src="https://github.com/BobSaidHi/BobSaidHi/actions/workflows/spell.yml/badge.svg" alt="Spellcheck Action" /></a>
+</div>
+<!-- End HTML -->
 
 <br>
 <br>
