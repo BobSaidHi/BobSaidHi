@@ -1,10 +1,16 @@
 {
     "cSpell.words": [
+        "calibreapp",
         "Flathub",
+        "ivifoundation",
         "Kaweees",
+        "pyspelling",
         "samarjitsahoo",
+        "SCPI",
         "Verilog",
-        "Vivado"
+        "Vivado",
+        "webp",
+        "wordlists"
     ],
     "markdownlint.config": {
         "MD012": false,

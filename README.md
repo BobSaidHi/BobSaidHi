@@ -54,91 +54,234 @@ Here are some ideas to get you started:
 
 ### Technologies
 
+> These have been ordered such that relevant libraries follow each language.  Platforms and tools are shown at the end.
+
 <table>
 <tr>
-   <td align="center">
-     <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="65" height="65"/>
-     <br>
-     <b>C++ 11+ (Language)</b>
-   </td>
-     <td align="center">
-     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="65" height="65"/>
-     <br>
-     <b>Arduino (Embedded Framework)</b>
-   </td>
+  <!-- Programming Languages -->
+  <td align="center">
+    <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ Logo" width="65" height="65"/>
+    <br>
+    <b>C++ 11+</b>
+    <br>
+    (Language)
+  </td>
+  <td align="center">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino Logo" width="65" height="65"/>
+    <br>
+    <b>Arduino</b>
+    <br>
+    (Embedded Framework)
+  </td>
   
-   <td align="center">
-     <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="Java" width="65" height="65"/>
-     <br>
-     <b>Java 8+ (Language)</b>
-   </td>
-   <td align="center">
-     <img src="https://github.com/user-attachments/assets/0612e8f0-f786-4159-861a-738c06d36ccf" alt="WPILib" width="65" height="65"/>
-     <br>
-     <b>WPILib (Robotics Framework)</b>
-   </td>
+  <td align="center">
+    <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="Java Logo" width="65" height="65"/>
+    <br>
+    <b>Java 8+</b>
+    <br>
+    (Language)
+  </td>
+  <td align="center">
+    <img src="https://github.com/user-attachments/assets/0612e8f0-f786-4159-861a-738c06d36ccf" alt="WPILib Logo" width="65" height="65"/>
+    <br>
+    <b>WPILib</b>
+    <br>
+    (Robotics Framework)
+  </td>
 
-   <td align="center">
-     <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="65" height="65"/><br><b>Python 3 (Language)</b>
-   </td>
+  <td align="center">
+    <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="65" height="65"/>
+    <br>
+    <b>Python 3</b>
+    <br>
+    (Language)
+  </td>
+  <td align="center">
+    <i>Additional Python Libraries</i>
+    <br>
+    <br>
+    Easy SCPI
+    <br>
+    ODrive
+    <br>
+    PySimpleGui
+    <br>
+    PyVISA
+    <br>
+    Requests
+  </td>
 
-   <td align="center">
-     <br>
-     <b>SystemVerilog (Hardware Description Language)</b>
-   </td>
-   <td align="center">
-     <img src="https://flathub.org/_next/image?url=https%3A%2F%2Fdl.flathub.org%2Fmedia%2Fcom%2Fgithub%2Fcorna.Vivado%2F07ad2cd5a0a53383dce2081f799f9726%2Ficons%2F128x128%2Fcom.github.corna.Vivado.png&w=256&q=100" alt="Vivado" width="65" height="65"/>
-     <br>
-     <b>AMD (Xilinx) Vivado (FPGA Design Suite)</b>
-   </td>
+  <!-- HDLs -->
+  <td align="center">
+    <br>
+    <b>SystemVerilog</b>
+    <br>
+    (Hardware Description Language)
+  </td>
+  <td align="center">
+    <img src="https://flathub.org/_next/image?url=https%3A%2F%2Fdl.flathub.org%2Fmedia%2Fcom%2Fgithub%2Fcorna.Vivado%2F07ad2cd5a0a53383dce2081f799f9726%2Ficons%2F128x128%2Fcom.github.corna.Vivado.png&w=256&q=100" alt="Vivado Logo" width="65" height="65"/>
+    <br>
+    AMD (Xilinx) <b>Vivado</b>
+    <br>
+    (FPGA Design Suite)
+  </td>
 
-   <td align="center">
-     <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="65" height="65"/>
-     <br>
-     <b>HTML (Markup)</b>
-   </td>
-   <td align="center">
-     <img src="https://cdn.worldvectorlogo.com/logos/markdown.svg" alt="Markdown" width="65" height="65"/>
-     <br>
-     <b>Markdown (Markup)</b>
-   </td>
+  <!-- Markup Languages -->
+  <td align="center">
+    <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="65" height="65"/>
+    <br>
+    <b>HTML</b>
+    <br>
+    (Markup)
+  </td>
+  <td align="center">
+    <img src="https://cdn.worldvectorlogo.com/logos/markdown.svg" alt="Markdown Logo" width="65" height="65"/>
+    <br>
+    <b>Markdown</b>
+    <br>
+    (Markup)
+  </td>
 
-   <td align="center">
-     <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" alt="HTML" width="65" height="65"/>
-     <br>
-     <b>Windows 7/8/10 (OS)</b>
-   </td>
-   <td align="center">
-     <img src="https://cdn.worldvectorlogo.com/logos/debian-2.svg" alt="Markdown" width="65" height="65"/>
-     <br>
-     <b>Debian Linux (OS)</b>
-   </td>
+  <!-- Scripting Languages -->
+  <td align="center">
+    <b>Windows CMD</b>
+    (Shell)
+  </td>
+  <td align="center">
+    <img src="https://ivifoundation.org/assets/images/square-logo.png" alt="IVI Foundation Logo" width="65" height="65"/>
+    <br>
+    <b>Standard Commands for Programmable Instruments (SCPI)</b>
+    <br>
+    (Shell Commands)
+  </td>
 
-   <td align="center">
-     <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub" width="65" height="65"/>
-     <br>
-     <b>GitHub (Developer Platform)</b>
-   </td>
-   <td align="center">
-     <br>
-     <b>GitHub Actions (CI/CD)</b>
-   </td>
-   <td align="center">
-     <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="GitLab" width="65" height="65"/>
-     <br>
-     <b>GitLab (Developer Platform)</b>
-   </td>
+  <!-- Tools -->
+  <td align="center">
+    <br>
+    <b>Doxygen</b>
+    <br>
+    (Documentation Tool)
+  </td>
+  <td align="center">
+    <br>
+    <b>Javadoc</b>
+    <br>
+    (Documentation Tool)
+  </td>
+  <td align="center">
+    <img src="https://cdn.worldvectorlogo.com/logos/draw-io.svg" alt="Draw.io Logo" width="65" height="65"/>
+    <br>
+    <b>Draw.io</b>
+    <br>
+    (Diagramming Tool)
+  </td>
+  <td align="center">
+    <br>
+    <b>WireViz</b>
+    <br>
+    (Diagramming Tool)
+  </td>
+
+  <!-- OS -->
+  <td align="center">
+    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" alt="Windows 10 Logo" width="65" height="65"/>
+    <br>
+    <b>Windows 7/8/10+</b>
+    <br>
+    (OS)
+  </td>
+  <td align="center">
+    <img src="https://cdn.worldvectorlogo.com/logos/debian-2.svg" alt="Debian Logo" width="65" height="65"/>
+    <br>
+    <b>Debian Linux</b>
+    <br>
+    (OS)
+  </td>
+
+  <!-- Developer Platforms -->
+  <td align="center">
+    <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub Logo" width="65" height="65"/>
+    <br>
+    <b>GitHub</b>
+    <br>
+    (Developer Platform)
+  </td>
+  <td align="center">
+    <br>
+    <b>GitHub Actions</b>
+    <br>
+    (CI/CD)
+  </td>
+  <td align="center">
+    <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="GitLab Logo" width="65" height="65"/>
+    <br>
+    <b>GitLab</b>
+    <br>
+    (Developer Platform)
+  </td>
+
+  <!-- IDEs -->
+  <td align="center">
+    <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code Logo" width="65" height="65"/>
+    <br>
+    Microsoft <b>Visual Studio Code</b>
+    <br>
+    (IDE)
+  </td>
+  <td align="center">
+    <img src="https://cdn.worldvectorlogo.com/logos/jetbrains-pycharm.svg" alt="PyCharm Logo" width="65" height="65"/>
+    <br>
+    JetBrains <b>Pycharm</b>
+    <br>
+    (IDE)
+  </td>
+  <td align="center">
+    <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="JetBrains IDEA Logo" width="65" height="65"/>
+    <br>
+    JetBrains <b>IDEA</b>
+    <br>
+    (IDE)
+  </td>
+  <td align="center">
+    <img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" alt="Eclipse Logo" width="65" height="65"/>
+    <br>
+    <b>Eclipse</b>
+    <br>
+    (IDE)
+  </td>
+  <td align="center">
+    <img src="https://cdn.worldvectorlogo.com/logos/notepadd-.svg" alt="Notepad++ Logo" width="65" height="65"/>
+    <br>
+    <b>Notepad++</b>
+    <br>
+    (Text Editor)
+  </td>
+
+  <!-- Additional Software -->
+  <td align="center">
+    <b><i>Additional Software</i></b>
+    <br>
+    <br>
+    Adobe Acrobat
+    <br>
+    Apache OpenOffice
+    <br>
+    Google Workspace
+    <br>
+    Microsoft Office
+  </td>
 
 </tr>
 </table>
 
+<br>
 <br>
 
 ### Special Thanks
 
 Thanks to [@Kaweees](https://github.com/Kaweees/Kaweees/blob/master/README.md) for the example of how setup the [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats#readme) cards.
 
-The inclusion of my some of the technologies I am familiar with was inspired by an adapted from [@samarjitsahoo](https://github.com/samarjitsahoo#-my-tech-stack).  Most icons were obtained from [WorldVectorLogo](https://worldvectorlogo.com).  The WPILib Icon is based off of [their official generic logo](https://github.com/wpilibsuite/branding/blob/main/wpilib-generic.svg) but rearranged into their secondary (square / profile) format per [their guidelines](https://github.com/wpilibsuite/branding/blob/main/WPILib-Logo-Branding-Guidelines-2024.pdf).  I obtained the AMD / Xilinx Vivado Icon from [Flathub](https://flathub.org/apps/com.github.corna.Vivado).
+The inclusion of my some of the technologies I am familiar with was inspired by an adapted from [@samarjitsahoo](https://github.com/samarjitsahoo#-my-tech-stack).  Most icons were obtained from [WorldVectorLogo](https://worldvectorlogo.com).  The WPILib Icon is based off of [their official generic logo](https://github.com/wpilibsuite/branding/blob/main/wpilib-generic.svg) but rearranged into their secondary (square / profile) format per [their guidelines](https://github.com/wpilibsuite/branding/blob/main/WPILib-Logo-Branding-Guidelines-2024.pdf).  I obtained the AMD / Xilinx Vivado Icon from [Flathub](https://flathub.org/apps/com.github.corna.Vivado).  I obtained the IVI Foundation logo from their website, [ivifoundation.org](https://www.ivifoundation.org/).
 
 <br>
 <br>
