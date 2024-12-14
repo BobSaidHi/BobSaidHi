@@ -318,13 +318,15 @@ Here are some ideas to get you started:
         <b><i>Additional Software</i></b>
         <br>
         <br>
-        Adobe Acrobat
+        Adobe Acrobat (Office)
         <br>
-        Apache OpenOffice
+        Apache OpenOffice (Office)
         <br>
-        Google Workspace
+        Google Workspace (Office)
         <br>
-        Microsoft Office
+        Microsoft Office (Office)
+        <br>
+        PuTTY (Remote Terminal Client)
       </div>
     </td>
   </tr>
