@@ -343,6 +343,16 @@ Thanks to [@Kaweees](https://github.com/Kaweees/Kaweees/blob/master/README.md) f
 
 The inclusion of my some of the technologies I am familiar with was inspired by an adapted from [@samarjitsahoo](https://github.com/samarjitsahoo#-my-tech-stack).  Most icons were obtained from [WorldVectorLogo](https://worldvectorlogo.com).  The WPILib Icon is based off of [their official generic logo](https://github.com/wpilibsuite/branding/blob/main/wpilib-generic.svg) but rearranged into their secondary (square / profile) format per [their guidelines](https://github.com/wpilibsuite/branding/blob/main/WPILib-Logo-Branding-Guidelines-2024.pdf).  I obtained the AMD / Xilinx Vivado Icon from [Flathub](https://flathub.org/apps/com.github.corna.Vivado).  I obtained the IVI Foundation logo from their website, [ivifoundation.org](https://www.ivifoundation.org/).
 
+### [@BobSaidHi/BobSaidHi](https://github.com/BobSaidHi/BobSaidHi) Repository Actions Status
+
+[![Compress images](https://github.com/BobSaidHi/BobSaidHi/actions/workflows/imageActions.yml/badge.svg)](https://github.com/BobSaidHi/BobSaidHi/actions/workflows/imageActions.yml)
+
+[![Dependabot Updates](https://github.com/BobSaidHi/BobSaidHi/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/BobSaidHi/BobSaidHi/actions/workflows/dependabot/dependabot-updates)
+
+[![Markdown Linter](https://github.com/BobSaidHi/BobSaidHi/actions/workflows/markdownwonLinter.yml/badge.svg)](https://github.com/BobSaidHi/BobSaidHi/actions/workflows/markdownwonLinter.yml)
+
+[![Spellcheck Action](https://github.com/BobSaidHi/BobSaidHi/actions/workflows/spell.yml/badge.svg)](https://github.com/BobSaidHi/BobSaidHi/actions/workflows/spell.yml)
+
 <br>
 <br>
 
