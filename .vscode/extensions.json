@@ -1,5 +1,6 @@
 {
     "recommendations": [
+        "adrianwilczynski.format-selection-as-html",
         "bierner.markdown-preview-github-styles",
         "davidanson.vscode-markdownlint",
         "earshinov.permute-lines",

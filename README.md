@@ -34,7 +34,9 @@ Here are some ideas to get you started:
 
 > *Language Statistics Method/ Weights:* 75% by byte count, 25% by repository count, excluding forked repositories and contributions to other users/organizations.  I feel this weighting portrays my statistics more accurately.
 
-#### Manually Counted Statistics
+<details>
+
+<summary>Manually Counted Statistics</summary>
 
 > Only counting the top languages in each repository
 >
@@ -52,227 +54,283 @@ Here are some ideas to get you started:
 | ASM    | 01   | 13  | 02% / 03% |
 | **TOTALS**   | **51**  | **439**  | **100% / 100%** |
 
+</details>
+
 ### Technologies
 
 > These have been ordered such that relevant libraries follow each language.  Platforms and tools are shown at the end.
 
+<!-- Begin HTML -->
+<!-- Programming Languages -->
 <table>
-<tr>
-  <!-- Programming Languages -->
-  <td align="center">
-    <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ Logo" width="65" height="65"/>
-    <br>
-    <b>C++ 11+</b>
-    <br>
-    (Language)
-  </td>
-  <td align="center">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino Logo" width="65" height="65"/>
-    <br>
-    <b>Arduino</b>
-    <br>
-    (Embedded Framework)
-  </td>
-  
-  <td align="center">
-    <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="Java Logo" width="65" height="65"/>
-    <br>
-    <b>Java 8+</b>
-    <br>
-    (Language)
-  </td>
-  <td align="center">
-    <img src="https://github.com/user-attachments/assets/0612e8f0-f786-4159-861a-738c06d36ccf" alt="WPILib Logo" width="65" height="65"/>
-    <br>
-    <b>WPILib</b>
-    <br>
-    (Robotics Framework)
-  </td>
-
-  <td align="center">
-    <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="65" height="65"/>
-    <br>
-    <b>Python 3</b>
-    <br>
-    (Language)
-  </td>
-  <td align="center">
-    <i>Additional Python Libraries</i>
-    <br>
-    <br>
-    Easy SCPI
-    <br>
-    ODrive
-    <br>
-    PySimpleGui
-    <br>
-    PyVISA
-    <br>
-    Requests
-  </td>
-
-  <!-- HDLs -->
-  <td align="center">
-    <br>
-    <b>SystemVerilog</b>
-    <br>
-    (Hardware Description Language)
-  </td>
-  <td align="center">
-    <img src="https://flathub.org/_next/image?url=https%3A%2F%2Fdl.flathub.org%2Fmedia%2Fcom%2Fgithub%2Fcorna.Vivado%2F07ad2cd5a0a53383dce2081f799f9726%2Ficons%2F128x128%2Fcom.github.corna.Vivado.png&w=256&q=100" alt="Vivado Logo" width="65" height="65"/>
-    <br>
-    AMD (Xilinx) <b>Vivado</b>
-    <br>
-    (FPGA Design Suite)
-  </td>
-
-  <!-- Markup Languages -->
-  <td align="center">
-    <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="65" height="65"/>
-    <br>
-    <b>HTML</b>
-    <br>
-    (Markup)
-  </td>
-  <td align="center">
-    <img src="https://cdn.worldvectorlogo.com/logos/markdown.svg" alt="Markdown Logo" width="65" height="65"/>
-    <br>
-    <b>Markdown</b>
-    <br>
-    (Markup)
-  </td>
-
-  <!-- Scripting Languages -->
-  <td align="center">
-    <b>Windows CMD</b>
-    (Shell)
-  </td>
-  <td align="center">
-    <img src="https://ivifoundation.org/assets/images/square-logo.png" alt="IVI Foundation Logo" width="65" height="65"/>
-    <br>
-    <b>Standard Commands for Programmable Instruments (SCPI)</b>
-    <br>
-    (Shell Commands)
-  </td>
-
-  <!-- Tools -->
-  <td align="center">
-    <br>
-    <b>Doxygen</b>
-    <br>
-    (Documentation Tool)
-  </td>
-  <td align="center">
-    <br>
-    <b>Javadoc</b>
-    <br>
-    (Documentation Tool)
-  </td>
-  <td align="center">
-    <img src="https://cdn.worldvectorlogo.com/logos/draw-io.svg" alt="Draw.io Logo" width="65" height="65"/>
-    <br>
-    <b>Draw.io</b>
-    <br>
-    (Diagramming Tool)
-  </td>
-  <td align="center">
-    <br>
-    <b>WireViz</b>
-    <br>
-    (Diagramming Tool)
-  </td>
-
-  <!-- OS -->
-  <td align="center">
-    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" alt="Windows 10 Logo" width="65" height="65"/>
-    <br>
-    <b>Windows 7/8/10+</b>
-    <br>
-    (OS)
-  </td>
-  <td align="center">
-    <img src="https://cdn.worldvectorlogo.com/logos/debian-2.svg" alt="Debian Logo" width="65" height="65"/>
-    <br>
-    <b>Debian Linux</b>
-    <br>
-    (OS)
-  </td>
-
-  <!-- Developer Platforms -->
-  <td align="center">
-    <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub Logo" width="65" height="65"/>
-    <br>
-    <b>GitHub</b>
-    <br>
-    (Developer Platform)
-  </td>
-  <td align="center">
-    <br>
-    <b>GitHub Actions</b>
-    <br>
-    (CI/CD)
-  </td>
-  <td align="center">
-    <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="GitLab Logo" width="65" height="65"/>
-    <br>
-    <b>GitLab</b>
-    <br>
-    (Developer Platform)
-  </td>
-
-  <!-- IDEs -->
-  <td align="center">
-    <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code Logo" width="65" height="65"/>
-    <br>
-    Microsoft <b>Visual Studio Code</b>
-    <br>
-    (IDE)
-  </td>
-  <td align="center">
-    <img src="https://cdn.worldvectorlogo.com/logos/jetbrains-pycharm.svg" alt="PyCharm Logo" width="65" height="65"/>
-    <br>
-    JetBrains <b>Pycharm</b>
-    <br>
-    (IDE)
-  </td>
-  <td align="center">
-    <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="JetBrains IDEA Logo" width="65" height="65"/>
-    <br>
-    JetBrains <b>IDEA</b>
-    <br>
-    (IDE)
-  </td>
-  <td align="center">
-    <img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" alt="Eclipse Logo" width="65" height="65"/>
-    <br>
-    <b>Eclipse</b>
-    <br>
-    (IDE)
-  </td>
-  <td align="center">
-    <img src="https://cdn.worldvectorlogo.com/logos/notepadd-.svg" alt="Notepad++ Logo" width="65" height="65"/>
-    <br>
-    <b>Notepad++</b>
-    <br>
-    (Text Editor)
-  </td>
-
-  <!-- Additional Software -->
-  <td align="center">
-    <b><i>Additional Software</i></b>
-    <br>
-    <br>
-    Adobe Acrobat
-    <br>
-    Apache OpenOffice
-    <br>
-    Google Workspace
-    <br>
-    Microsoft Office
-  </td>
-
-</tr>
+  <tr>
+    <!-- Programming Languages -->
+    <!-- C++ -->
+    <td align="center">
+      <div style="min-width:80px;">
+        <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ Logo" width="65" height="65" />
+        <br>
+        <b>C++ 11+</b>
+        <br>
+        (Language)
+      </div>
+    </td>
+    <td align="center">
+      <div style="min-width:80px;">
+        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino Logo" width="65" height="65" />
+        <br>
+        <b>Arduino</b>
+        <br>
+        (Embedded Framework)
+      </div>
+    </td>
+    <!-- Java -->
+    <td align="center">
+      <div style="min-width:80px;">
+        <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="Java Logo" width="65" height="65" />
+        <br>
+        <b>Java 8+</b>
+        <br>
+        (Language)
+      </div>
+    </td>
+    <td align="center">
+      <div style="min-width:80px;">
+        <img src="https://github.com/user-attachments/assets/0612e8f0-f786-4159-861a-738c06d36ccf" alt="WPILib Logo"
+          width="65" height="65" />
+        <br>
+        <b>WPILib</b>
+        <br>
+        (Robotics Framework)
+      </div>
+    </td>
+    <!-- Python -->
+    <td align="center">
+      <div style="min-width:80px;">
+        <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="65" height="65" />
+        <br>
+        <b>Python 3</b>
+        <br>
+        (Language)
+      </div>
+    </td>
+    <td align="center">
+      <div style="min-width:140px;">
+        <i>Additional Python Libraries</i>
+        <br>
+        <br>
+        Easy SCPI
+        <br>
+        ODrive
+        <br>
+        PySimpleGui
+        <br>
+        PyVISA
+        <br>
+        Requests
+      </div>
+    </td>
+    <!-- HDLs -->
+    <td align="center">
+      <div style="min-width:80px;">
+        <br>
+        <b>SystemVerilog</b>
+        <br>
+        (Hardware Description Language)
+      </div>
+    </td>
+    <td align="center">
+      <div style="min-width:140px;">
+        <img
+          src="https://flathub.org/_next/image?url=https%3A%2F%2Fdl.flathub.org%2Fmedia%2Fcom%2Fgithub%2Fcorna.Vivado%2F07ad2cd5a0a53383dce2081f799f9726%2Ficons%2F128x128%2Fcom.github.corna.Vivado.png&w=256&q=100"
+          alt="Vivado Logo" width="65" height="65" />
+        <br>
+        AMD (Xilinx) <b>Vivado</b>
+        <br>
+        (FPGA Design Suite)
+      </div>
+    </td>
+    <!-- Markup Languages -->
+    <td align="center">
+      <div style="min-width:80px;">
+        <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="65" height="65" />
+        <br>
+        <b>HTML</b>
+        <br>
+        (Markup)
+      </div>
+    </td>
+    <td align="center">
+      <div style="min-width:80px;">
+        <img src="https://cdn.worldvectorlogo.com/logos/markdown.svg" alt="Markdown Logo" width="65" height="65" />
+        <br>
+        <b>Markdown</b>
+        <br>
+        (Markup)
+      </div>
+    </td>
+    <!-- Scripting Languages -->
+    <td align="center">
+      <div style="min-width:80px;">
+        <b>Windows CMD</b>
+        (Shell)
+      </div>
+    </td>
+    <td align="center">
+      <div style="min-width:140px;">
+        <img src="https://ivifoundation.org/assets/images/square-logo.png" alt="IVI Foundation Logo" width="65"
+          height="65" />
+        <br>
+        <b>Standard Commands for Programmable Instruments (SCPI)</b>
+        <br>
+        (Shell Commands)
+    </td>
+    <!-- Tools -->
+    <td align="center">
+      <div style="min-width:80px;">
+        <br>
+        <b>Doxygen</b>
+        <br>
+        (Documentation Tool)
+      </div>
+    </td>
+    <td align="center">
+      <div style="min-width:80px;">
+        <br>
+        <b>Javadoc</b>
+        <br>
+        (Documentation Tool)
+      </div>
+    </td>
+    <td align="center">
+      <div style="min-width:80px;">
+        <img src="https://cdn.worldvectorlogo.com/logos/draw-io.svg" alt="Draw.io Logo" width="65" height="65" />
+        <br>
+        <b>Draw.io</b>
+        <br>
+        (Diagramming Tool)
+      </div>
+    </td>
+    <td align="center">
+      <div style="min-width:80px;">
+        <br>
+        <b>WireViz</b>
+        <br>
+        (Diagramming Tool)
+    </td>
+    <!-- OS -->
+    <td align="center">
+      <div style="min-width:80px;">
+        <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" alt="Windows 10 Logo" width="65"
+          height="65" />
+        <br>
+        <b>Windows 7/8/10+</b>
+        <br>
+        (OS)
+      </div>
+    </td>
+    <td align="center">
+      <div style="min-width:80px;">
+        <img src="https://cdn.worldvectorlogo.com/logos/debian-2.svg" alt="Debian Logo" width="65" height="65" />
+        <br>
+        <b>Debian Linux</b>
+        <br>
+        (OS)
+    </td>
+    <!-- Developer Platforms -->
+    <td align="center">
+      <div style="min-width:80px;">
+        <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub Logo" width="65" height="65" />
+        <br>
+        <b>GitHub</b>
+        <br>
+        (Developer Platform)
+      </div>
+    </td>
+    <td align="center">
+      <div style="min-width:80px;">
+        <br>
+        <b>GitHub Actions</b>
+        <br>
+        (CI/CD)
+      </div>
+    </td>
+    <td align="center">
+      <div style="min-width:80px;">
+        <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="GitLab Logo" width="65" height="65" />
+        <br>
+        <b>GitLab</b>
+        <br>
+        (Developer Platform)
+    </td>
+    <!-- IDEs -->
+    <td align="center">
+      <div style="min-width:80px;">
+        <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code Logo" width="65"
+          height="65" />
+        <br>
+        Microsoft <b>Visual Studio Code</b>
+        <br>
+        (IDE)
+      </div>
+    </td>
+    <td align="center">
+      <div style="min-width:80px;">
+        <img src="https://cdn.worldvectorlogo.com/logos/jetbrains-pycharm.svg" alt="PyCharm Logo" width="65"
+          height="65" />
+        <br>
+        JetBrains <b>Pycharm</b>
+        <br>
+        (IDE)
+      </div>
+    </td>
+    <td align="center">
+      <div style="min-width:80px;">
+        <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="JetBrains IDEA Logo" width="65"
+          height="65" />
+        <br>
+        JetBrains <b>IDEA</b>
+        <br>
+        (IDE)
+      </div>
+    </td>
+    <td align="center">
+      <div style="min-width:80px;">
+        <img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" alt="Eclipse Logo" width="65" height="65" />
+        <br>
+        <b>Eclipse</b>
+        <br>
+        (IDE)
+      </div>
+    </td>
+    <td align="center">
+      <div style="min-width:80px;">
+        <img src="https://cdn.worldvectorlogo.com/logos/notepadd-.svg" alt="Notepad++ Logo" width="65" height="65" />
+        <br>
+        <b>Notepad++</b>
+        <br>
+        (Text Editor)
+      </div>
+    </td>
+    <!-- Additional Software -->
+    <td align="center">
+      <div style="min-width:140px;">
+        <b><i>Additional Software</i></b>
+        <br>
+        <br>
+        Adobe Acrobat
+        <br>
+        Apache OpenOffice
+        <br>
+        Google Workspace
+        <br>
+        Microsoft Office
+      </div>
+    </td>
+  </tr>
 </table>
+
+<!-- End HTML -->
 
 <br>
 <br>
