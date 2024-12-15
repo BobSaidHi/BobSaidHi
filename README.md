@@ -115,7 +115,7 @@ Here are some ideas to get you started:
     <td align="center" rowspan="1">
       <div style="min-width:80px;">
         <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-        <i>Additional Python Libraries</i>
+        <b><i>Additional Python Libraries</i></b>
       </div>
     </td>
     <!-- HDLs -->
