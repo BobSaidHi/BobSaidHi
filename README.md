@@ -114,7 +114,7 @@ Here are some ideas to get you started:
     </td>
     <td align="center" rowspan="1">
       <div style="min-width:80px;">
-        <p hidden>________________</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
         <i>Additional Python Libraries</i>
       </div>
     </td>
@@ -217,42 +217,42 @@ Here are some ideas to get you started:
     <!-- Additional Software -->
     <td align="center" rowspan="1">
       <div style="min-width:140px;">
-        <p hidden>________________</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
         <b><i>Additional Software</i></b>
       </div>
     </td>
     <!-- CAD Software -->
     <td align="center" rowspan="1">
       <div style="min-width:140px;">
-        <p hidden>____________________</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
         <b><i>CAD Software</i></b>
       </div>
     </td>
     <!-- Office Software -->
     <td align="center" rowspan="1">
       <div style="min-width:140px;">
-        <p hidden>____________________</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
         <b><i>Office Software</i></b>
       </div>
     </td>
     <!-- Selected COTS Part OEMs -->
     <td align="center" rowspan="1">
       <div style="min-width:230px;">
-        <p hidden>__________________________________</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
         <b><i>Selected COTS Part OEMs</i></b>
       </div>
     </td>
     <!-- Selected Equipment OEMs -->
     <td align="center" rowspan="1">
       <div style="min-width:230px;">
-        <p hidden>__________________________________</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
         <b><i>Selected Equipment OEMs</i></b>
       </div>
     </td>
     <!-- Additional Favorite Vendors -->
     <td align="center" rowspan="1">
       <div style="min-width:140px;">
-        <p hidden>____________________</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
         <b><i>Additional Favorite Vendors</i></b>
       </div>
     </td>
@@ -263,45 +263,45 @@ Here are some ideas to get you started:
     <!-- C++ -->
     <td align="center">
       <div>
-        <p hidden>____________________</p>
         <b>C++ 11+</b>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
       </div>
     </td>
     <td align="center">
       <div>
-        <p hidden>________________</p>
         <b>Arduino</b>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
       </div>
     </td>
     <!-- Java -->
     <td align="center">
       <div>
-        <p hidden>____________________</p>
         <b>Java 8+</b>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
       </div>
     </td>
     <td align="center">
       <div>
-        <p hidden>________________</p>
         <b>Javadoc</b>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
       </div>
     </td>
     <td align="center">
       <div>
-        <p hidden>________________</p>
         <b>WPILib</b>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
       </div>
     </td>
     <!-- Python -->
     <td align="center">
       <div>
-        <p hidden>____________________</p>
         <b>Python 3</b>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
       </div>
     </td>
     <td align="center" rowspan="2">
       <div>
-        Easy SCPI<br>
+        Easy&nbsp;SCPI<br>
         logging<br>
         ODrive<br>
         PySimpleGui<br>
@@ -312,34 +312,34 @@ Here are some ideas to get you started:
     <!-- HDLs -->
     <td align="center">
       <div>
-        <p hidden>________________</p>
         <b>SystemVerilog</b>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
       </div>
     </td>
     <td align="center">
       <div>
-        <p hidden>_______________</p>
-        AMD (Xilinx) <b>Vivado</b>
+        AMD&nbsp;(Xilinx) <b>Vivado</b>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </div>
     </td>
     <!-- Markup Languages -->
     <td align="center">
       <div>
-        <p hidden>________________</p>
         <b>HTML</b>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
       </div>
     </td>
     <td align="center">
       <div>
-        <p hidden>________________</p>
         <b>Markdown</b>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
       </div>
     </td>
     <!-- Scripting Languages -->
     <td align="center">
       <div>
-        <p hidden>________________</p>
         <b>Windows CMD</b>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
       </div>
     </td>
     <td align="center">
@@ -349,79 +349,79 @@ Here are some ideas to get you started:
     <!-- Tools -->
     <td align="center">
       <div>
-        <p hidden>________________</p>
         <b>Doxygen</b>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
       </div>
     </td>
     <td align="center">
       <div>
-        <p hidden>________________</p>
         <b>Draw.io</b>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
     </td>
     <td align="center">
       <div>
-        <p hidden>________________</p>
         <b>WireViz</b>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
     </td>
     <!-- OS -->
     <td align="center">
       <div>
-        <p hidden>________________</p>
         <b>Windows 7/8/10+</b>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
       </div>
     </td>
     <td align="center">
       <div>
-        <p hidden>________________</p>
         <b>Debian Linux</b>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
     </td>
     <!-- Developer Platforms -->
     <td align="center">
       <div>
-        <p hidden>________________</p>
         <b>GitHub</b>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
       </div>
     </td>
     <td align="center">
       <div>
-        <p hidden>________________</p>
         <b>GitHub Actions</b>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
       </div>
     </td>
     <td align="center">
       <div>
-        <p hidden>________________</p>
         <b>GitLab</b>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
     </td>
     <!-- IDEs -->
     <td align="center">
       <div>
-        <p hidden>________________</p>
         Microsoft <b>Visual Studio Code</b>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
       </div>
     </td>
     <td align="center">
       <div>
-        <p hidden>________________</p>
         JetBrains <b>Pycharm</b>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
       </div>
     </td>
     <td align="center">
       <div>
-        <p hidden>________________</p>
         JetBrains <b>IDEA</b>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
       </div>
     </td>
     <td align="center">
       <div>
-        <p hidden>________________</p>
         <b>Eclipse</b>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
       </div>
     </td>
     <td align="center">
       <div>
-        <p hidden>________________</p>
         <b>Notepad++</b>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
       </div>
     </td>
     <!-- Additional Software -->
@@ -437,53 +437,53 @@ Here are some ideas to get you started:
     <!-- CAD Software -->
     <td align="center" rowspan="2">
       <div>
-        Autodesk AutoCad<br>
-        Autodesk Fusion360<br>
-        Autodesk Revit<br>
-        DigiKey Scheme-It<br>
+        Autodesk&nbsp;AutoCad<br>
+        Autodesk&nbsp;Fusion360<br>
+        Autodesk&nbsp;Revit<br>
+        DigiKey&nbsp;Scheme-It<br>
       </div>
     </td>
     <!-- Office Software -->
     <td align="center" rowspan="2">
       <div>
-        Adobe Acrobat<br>
-        Apache OpenOffice<br>
-        Google Workspace<br>
-        Microsoft Office<br>
+        Adobe&nbsp;Acrobat<br>
+        Apache&nbsp;OpenOffice<br>
+        Google&nbsp;Workspace<br>
+        Microsoft&nbsp;Office<br>
       </div>
     </td>
     <!-- Selected COTS Part OEMs -->
     <td align="center" rowspan="2">
       <div>
-        Adafruit Industries<br>
-        Arduino (Uno Rev3)<br>
-        Cross the Road Electronics<br>
-        Digilent (Basys 3 Artix-7 FPGA)<br>
-        Espressif Systems (ESP32)<br>
-        National Instruments (roboRIO)<br>
-        Raspberry Pi (3b)<br>
-        REV Robotics<br>
-        VEX Robotics<br>
+        Adafruit&nbsp;Industries<br>
+        Arduino&nbsp;(Uno&nbsp;Rev3)<br>
+        Cross&nbsp;the&nbsp;Road&nbsp;Electronics<br>
+        Digilent&nbsp;(Basys&nbsp;3&nbsp;Artix-7&nbsp;FPGA)<br>
+        Espressif&nbsp;Systems&nbsp;(ESP32)<br>
+        National&nbsp;Instruments&nbsp;(roboRIO)<br>
+        Raspberry&nbsp;Pi&nbsp;(3b)<br>
+        REV&nbsp;Robotics<br>
+        VEX&nbsp;Robotics<br>
       </div>
     </td>
     <!-- Selected Equipment OEMs -->
     <td align="center" rowspan="2">
       <div>
-        Agilent Technologies, Inc.<br>
+        Agilent&nbsp;Technologies,&nbsp;Inc.<br>
         Asus<br>
         Dell<br>
         HP<br>
-        Keysight Technologies<br>
+        Keysight&nbsp;Technologies<br>
         Netgear<br>
-        RIGOL Technologies<br>
-        Siglent Technologies<br>
+        RIGOL&nbsp;Technologies<br>
+        Siglent&nbsp;Technologies<br>
       </div>
     </td>
     <!-- Additional Favorite Vendors -->
     <td align="center" rowspan="2">
       <div>
-        AndyMark, Inc.<br>
-        Digi-Key Electronics<br>
+        AndyMark,&nbsp;Inc.<br>
+        Digi-Key&nbsp;Electronics<br>
         Grainger<br>
       </div>
     </td>
@@ -495,7 +495,7 @@ Here are some ideas to get you started:
     <td align="center">
       <div>
         (General,<br>
-        Multi-paradigm,<br>
+        Multi&#8209;paradigm,<br>
         Embedded,<br>
         OOP)
       </div>
@@ -509,7 +509,7 @@ Here are some ideas to get you started:
     <td align="center">
       <div>
         (General,<br>
-        Multi-paradigm,<br>
+        Multi&#8209;paradigm,<br>
         OOP)
       </div>
     </td>
@@ -528,7 +528,7 @@ Here are some ideas to get you started:
       <div>
         (General,<br>
         Scripting,<br>
-        Multi-paradigm,<br>
+        Multi&#8209;paradigm,<br>
         OOP)
       </div>
     </td>
@@ -563,8 +563,9 @@ Here are some ideas to get you started:
     </td>
     <td align="center">
       <div>
-        <p hidden>____________________</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
         (Shell Commands)
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
     </td>
     <!-- Tools -->
     <td align="center">
