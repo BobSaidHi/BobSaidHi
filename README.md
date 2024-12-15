@@ -65,62 +65,180 @@ Here are some ideas to get you started:
 <!-- Begin HTML -->
 <!-- Programming Languages -->
 <table>
+  <!-- Icons -->
   <tr>
     <!-- Programming Languages -->
     <!-- C++ -->
     <td align="center">
       <div style="min-width:80px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ Logo" width="65"/>
-        <br>
-        <b>C++ 11+</b>
-        <br>
-        (Language)
+        <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ Logo" width="65" />
       </div>
     </td>
     <td align="center">
       <div style="min-width:80px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino Logo" width="65"/>
-        <br>
-        <b>Arduino</b>
-        <br>
-        (Embedded Framework)
+        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino Logo" width="65" />
       </div>
     </td>
     <!-- Java -->
     <td align="center">
       <div style="min-width:80px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="Java Logo" width="65"/>
-        <br>
-        <b>Java 8+</b>
-        <br>
-        (Language)
+        <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="Java Logo" width="65" />
       </div>
     </td>
     <td align="center">
       <div style="min-width:80px;">
-        <img src="https://github.com/user-attachments/assets/0612e8f0-f786-4159-861a-738c06d36ccf" alt="WPILib Logo"
-          width="65"/>
-        <br>
-        <b>WPILib</b>
-        <br>
-        (Robotics Framework)
+        <img src="https://github.com/user-attachments/assets/0612e8f0-f786-4159-861a-738c06d36ccf" alt="WPILib Logo" width="65" />
       </div>
     </td>
     <!-- Python -->
     <td align="center">
       <div style="min-width:80px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="65"/>
-        <br>
-        <b>Python 3</b>
-        <br>
-        (Language)
+        <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="65" />
+      </div>
+    </td>
+    <td align="center" rowspan="1">
+      <div style="min-width:140px;">
+        <i>Additional Python Libraries</i>
+      </div>
+    </td>
+    <!-- HDLs -->
+    <td align="center">
+      <div style="min-width:80px;">
       </div>
     </td>
     <td align="center">
       <div style="min-width:140px;">
-        <i>Additional Python Libraries</i>
-        <br>
-        <br>
+        <img
+          src="https://flathub.org/_next/image?url=https%3A%2F%2Fdl.flathub.org%2Fmedia%2Fcom%2Fgithub%2Fcorna.Vivado%2F07ad2cd5a0a53383dce2081f799f9726%2Ficons%2F128x128%2Fcom.github.corna.Vivado.png&w=256&q=100"
+          alt="Vivado Logo" width="65" />
+      </div>
+    </td>
+    <!-- Markup Languages -->
+    <td align="center">
+      <div style="min-width:80px;">
+        <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="65" />
+      </div>
+    </td>
+    <td align="center">
+      <div style="min-width:80px;">
+        <img src="https://cdn.worldvectorlogo.com/logos/markdown.svg" alt="Markdown Logo" width="65" />
+      </div>
+    </td>
+    <!-- Scripting Languages -->
+    <td align="center">
+      <div style="min-width:80px;">
+      </div>
+    </td>
+    <td align="center">
+      <div style="min-width:140px;">
+        <img src="https://ivifoundation.org/assets/images/square-logo.png" alt="IVI Foundation Logo" width="65" />
+    </td>
+    <!-- Tools -->
+    <td align="center">
+      <div style="min-width:80px;">
+      </div>
+    </td>
+    <td align="center">
+      <div style="min-width:80px;">
+      </div>
+    </td>
+    <td align="center">
+      <div style="min-width:80px;">
+        <img src="https://cdn.worldvectorlogo.com/logos/draw-io.svg" alt="Draw.io Logo" width="65" />
+    </td>
+    <td align="center">
+      <div style="min-width:80px;">
+    </td>
+    <!-- OS -->
+    <td align="center">
+      <div style="min-width:80px;">
+        <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" alt="Windows 10 Logo" width="65" />
+      </div>
+    </td>
+    <td align="center">
+      <div style="min-width:80px;">
+        <img src="https://cdn.worldvectorlogo.com/logos/debian-2.svg" alt="Debian Logo" width="65" />
+    </td>
+    <!-- Developer Platforms -->
+    <td align="center">
+      <div style="min-width:80px;">
+        <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub Logo" width="65" />
+      </div>
+    </td>
+    <td align="center">
+      <div style="min-width:80px;">
+      </div>
+    </td>
+    <td align="center">
+      <div style="min-width:80px;">
+        <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="GitLab Logo" width="65" />
+    </td>
+    <!-- IDEs -->
+    <td align="center">
+      <div style="min-width:80px;">
+        <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code Logo" width="65" />
+      </div>
+    </td>
+    <td align="center">
+      <div style="min-width:80px;">
+        <img src="https://cdn.worldvectorlogo.com/logos/jetbrains-pycharm.svg" alt="PyCharm Logo" width="65" />
+      </div>
+    </td>
+    <td align="center">
+      <div style="min-width:80px;">
+        <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="JetBrains IDEA Logo" width="65" />
+      </div>
+    </td>
+    <td align="center">
+      <div style="min-width:80px;">
+        <img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" alt="Eclipse Logo" width="65" />
+      </div>
+    </td>
+    <td align="center">
+      <div style="min-width:80px;">
+        <img src="https://cdn.worldvectorlogo.com/logos/notepadd-.svg" alt="Notepad++ Logo" width="65" />
+      </div>
+    </td>
+    <!-- Additional Software -->
+    <td align="center" rowspan="1">
+      <div style="min-width:140px;">
+        <b><i>Additional Software</i></b>
+      </div>
+    </td>
+  </tr>
+  <!-- Names  -->
+  <tr>
+    <!-- Programming Languages -->
+    <!-- C++ -->
+    <td align="center">
+      <div style="min-width:80px;">
+        <b>C++ 11+</b>
+      </div>
+    </td>
+    <td align="center">
+      <div style="min-width:80px;">
+        <b>Arduino</b>
+      </div>
+    </td>
+    <!-- Java -->
+    <td align="center">
+      <div style="min-width:80px;">
+        <b>Java 8+</b>
+      </div>
+    </td>
+    <td align="center">
+      <div style="min-width:80px;">
+        <b>WPILib</b>
+      </div>
+    </td>
+    <!-- Python -->
+    <td align="center">
+      <div style="min-width:80px;">
+        <b>Python 3</b>
+      </div>
+    </td>
+    <td align="center" rowspan="2">
+      <div style="min-width:140px;">
         Easy SCPI
         <br>
         ODrive
@@ -135,197 +253,255 @@ Here are some ideas to get you started:
     <!-- HDLs -->
     <td align="center">
       <div style="min-width:80px;">
-        <br>
         <b>SystemVerilog</b>
-        <br>
-        (Hardware Description Language)
       </div>
     </td>
     <td align="center">
       <div style="min-width:140px;">
-        <img
-          src="https://flathub.org/_next/image?url=https%3A%2F%2Fdl.flathub.org%2Fmedia%2Fcom%2Fgithub%2Fcorna.Vivado%2F07ad2cd5a0a53383dce2081f799f9726%2Ficons%2F128x128%2Fcom.github.corna.Vivado.png&w=256&q=100"
-          alt="Vivado Logo" width="65"/>
-        <br>
         AMD (Xilinx) <b>Vivado</b>
-        <br>
-        (FPGA Design Suite)
       </div>
     </td>
     <!-- Markup Languages -->
     <td align="center">
       <div style="min-width:80px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="65"/>
-        <br>
         <b>HTML</b>
-        <br>
-        (Markup)
       </div>
     </td>
     <td align="center">
       <div style="min-width:80px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/markdown.svg" alt="Markdown Logo" width="65"/>
-        <br>
         <b>Markdown</b>
-        <br>
-        (Markup)
       </div>
     </td>
     <!-- Scripting Languages -->
     <td align="center">
       <div style="min-width:80px;">
         <b>Windows CMD</b>
+      </div>
+    </td>
+    <td align="center">
+      <div style="min-width:140px;">
+        <b>Standard Commands for Programmable Instruments (SCPI)</b>
+    </td>
+    <!-- Tools -->
+    <td align="center">
+      <div style="min-width:80px;">
+        <b>Doxygen</b>
+      </div>
+    </td>
+    <td align="center">
+      <div style="min-width:80px;">
+        <b>Javadoc</b>
+      </div>
+    </td>
+    <td align="center">
+      <div style="min-width:80px;">
+        <b>Draw.io</b>
+    </td>
+    <td align="center">
+      <div style="min-width:80px;">
+        <b>WireViz</b>
+    </td>
+    <!-- OS -->
+    <td align="center">
+      <div style="min-width:80px;">
+        <b>Windows 7/8/10+</b>
+      </div>
+    </td>
+    <td align="center">
+      <div style="min-width:80px;">
+        <b>Debian Linux</b>
+    </td>
+    <!-- Developer Platforms -->
+    <td align="center">
+      <div style="min-width:80px;">
+        <b>GitHub</b>
+      </div>
+    </td>
+    <td align="center">
+      <div style="min-width:80px;">
+        <b>GitHub Actions</b>
+      </div>
+    </td>
+    <td align="center">
+      <div style="min-width:80px;">
+        <b>GitLab</b>
+    </td>
+    <!-- IDEs -->
+    <td align="center">
+      <div style="min-width:80px;">
+        Microsoft <b>Visual Studio Code</b>
+      </div>
+    </td>
+    <td align="center">
+      <div style="min-width:80px;">
+        JetBrains <b>Pycharm</b>
+      </div>
+    </td>
+    <td align="center">
+      <div style="min-width:80px;">
+        JetBrains <b>IDEA</b>
+      </div>
+    </td>
+    <td align="center">
+      <div style="min-width:80px;">
+        <b>Eclipse</b>
+      </div>
+    </td>
+    <td align="center">
+      <div style="min-width:80px;">
+        <b>Notepad++</b>
+      </div>
+    </td>
+    <td align="center" rowspan="2">
+      <div style="min-width:140px;">
+        Adobe Acrobat
+        <br>
+        Apache OpenOffice
+        <br>
+        Google Workspace
+        <br>
+        Microsoft Office
+        <br>
+        PuTTY
+      </div>
+    </td>
+  </tr>
+  <!-- Entry Types -->
+  <tr>
+    <!-- Programming Languages -->
+    <!-- C++ -->
+    <td align="center">
+      <div style="min-width:80px;">
+        (Language)
+      </div>
+    </td>
+    <td align="center">
+      <div style="min-width:80px;">
+        (Embedded Framework)
+      </div>
+    </td>
+    <!-- Java -->
+    <td align="center">
+      <div style="min-width:80px;">
+        (Language)
+      </div>
+    </td>
+    <td align="center">
+      <div style="min-width:80px;">
+        (Robotics Framework)
+      </div>
+    </td>
+    <!-- Python -->
+    <td align="center">
+      <div style="min-width:80px;">
+        (Language)
+      </div>
+    </td>
+    <!-- Python -->
+    <!-- HDLs -->
+    <td align="center">
+      <div style="min-width:80px;">
+        (Hardware Description Language)
+      </div>
+    </td>
+    <td align="center">
+      <div style="min-width:140px;">
+        (FPGA Design Suite)
+      </div>
+    </td>
+    <!-- Markup Languages -->
+    <td align="center">
+      <div style="min-width:80px;">
+        (Markup)
+      </div>
+    </td>
+    <td align="center">
+      <div style="min-width:80px;">
+        (Markup)
+      </div>
+    </td>
+    <!-- Scripting Languages -->
+    <td align="center">
+      <div style="min-width:80px;">
         (Shell)
       </div>
     </td>
     <td align="center">
       <div style="min-width:140px;">
-        <img src="https://ivifoundation.org/assets/images/square-logo.png" alt="IVI Foundation Logo" width="65"/>
-        <br>
-        <b>Standard Commands for Programmable Instruments (SCPI)</b>
-        <br>
         (Shell Commands)
     </td>
     <!-- Tools -->
     <td align="center">
       <div style="min-width:80px;">
-        <br>
-        <b>Doxygen</b>
-        <br>
         (Documentation Tool)
       </div>
     </td>
     <td align="center">
       <div style="min-width:80px;">
-        <br>
-        <b>Javadoc</b>
-        <br>
         (Documentation Tool)
       </div>
     </td>
     <td align="center">
       <div style="min-width:80px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/draw-io.svg" alt="Draw.io Logo" width="65"/>
-        <br>
-        <b>Draw.io</b>
-        <br>
         (Diagramming Tool)
       </div>
     </td>
     <td align="center">
       <div style="min-width:80px;">
-        <br>
-        <b>WireViz</b>
-        <br>
         (Diagramming Tool)
     </td>
     <!-- OS -->
     <td align="center">
       <div style="min-width:80px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" alt="Windows 10 Logo" width="65"/>
-        <br>
-        <b>Windows 7/8/10+</b>
-        <br>
         (OS)
       </div>
     </td>
     <td align="center">
       <div style="min-width:80px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/debian-2.svg" alt="Debian Logo" width="65"/>
-        <br>
-        <b>Debian Linux</b>
-        <br>
         (OS)
     </td>
     <!-- Developer Platforms -->
     <td align="center">
       <div style="min-width:80px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub Logo" width="65"/>
-        <br>
-        <b>GitHub</b>
-        <br>
         (Developer Platform)
       </div>
     </td>
     <td align="center">
       <div style="min-width:80px;">
-        <br>
-        <b>GitHub Actions</b>
-        <br>
         (CI/CD)
       </div>
     </td>
     <td align="center">
       <div style="min-width:80px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="GitLab Logo" width="65"/>
-        <br>
-        <b>GitLab</b>
-        <br>
         (Developer Platform)
     </td>
     <!-- IDEs -->
     <td align="center">
       <div style="min-width:80px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code Logo" width="65"/>
-        <br>
-        Microsoft <b>Visual Studio Code</b>
-        <br>
         (IDE)
       </div>
     </td>
     <td align="center">
       <div style="min-width:80px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/jetbrains-pycharm.svg" alt="PyCharm Logo" width="65"/>
-        <br>
-        JetBrains <b>Pycharm</b>
-        <br>
         (IDE)
       </div>
     </td>
     <td align="center">
       <div style="min-width:80px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="JetBrains IDEA Logo" width="65"/>
-        <br>
-        JetBrains <b>IDEA</b>
-        <br>
         (IDE)
       </div>
     </td>
     <td align="center">
       <div style="min-width:80px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" alt="Eclipse Logo" width="65"/>
-        <br>
-        <b>Eclipse</b>
-        <br>
         (IDE)
       </div>
     </td>
     <td align="center">
       <div style="min-width:80px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/notepadd-.svg" alt="Notepad++ Logo" width="65"/>
-        <br>
-        <b>Notepad++</b>
-        <br>
         (Text Editor)
       </div>
     </td>
     <!-- Additional Software -->
-    <td align="center">
-      <div style="min-width:140px;">
-        <b><i>Additional Software</i></b>
-        <br>
-        <br>
-        Adobe Acrobat (Office)
-        <br>
-        Apache OpenOffice (Office)
-        <br>
-        Google Workspace (Office)
-        <br>
-        Microsoft Office (Office)
-        <br>
-        PuTTY (Remote Terminal Client)
-      </div>
-    </td>
   </tr>
 </table>
 <!-- End HTML -->
