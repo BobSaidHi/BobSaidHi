@@ -82,7 +82,7 @@ Here are some ideas to get you started:
     <!-- Programming Languages -->
     <!-- C++ -->
     <td align="center">
-      <div style="min-width:80px;">
+      <div style="min-width:120px;">
         <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ Logo" width="65" />
       </div>
     </td>
@@ -93,12 +93,12 @@ Here are some ideas to get you started:
     </td>
     <!-- Java -->
     <td align="center">
-      <div style="min-width:80px;">
+      <div style="min-width:120px;">
         <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="Java Logo" width="65" />
       </div>
     </td>
     <td align="center">
-      <div style="min-width:80px;">
+      <div style="min-width:120;">
       </div>
     </td>
     <td align="center">
@@ -108,12 +108,13 @@ Here are some ideas to get you started:
     </td>
     <!-- Python -->
     <td align="center">
-      <div style="min-width:80px;">
+      <div style="min-width:120px;">
         <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="65" />
       </div>
     </td>
     <td align="center" rowspan="1">
-      <div style="min-width:140px;">
+      <div style="min-width:80px;">
+        <p hidden>________________</p>
         <i>Additional Python Libraries</i>
       </div>
     </td>
@@ -123,7 +124,7 @@ Here are some ideas to get you started:
       </div>
     </td>
     <td align="center">
-      <div style="min-width:140px;">
+      <div style="min-width:80px;">
         <img
           src="https://flathub.org/_next/image?url=https%3A%2F%2Fdl.flathub.org%2Fmedia%2Fcom%2Fgithub%2Fcorna.Vivado%2F07ad2cd5a0a53383dce2081f799f9726%2Ficons%2F128x128%2Fcom.github.corna.Vivado.png&w=256&q=100"
           alt="Vivado Logo" width="65" />
@@ -216,36 +217,42 @@ Here are some ideas to get you started:
     <!-- Additional Software -->
     <td align="center" rowspan="1">
       <div style="min-width:140px;">
+        <p hidden>________________</p>
         <b><i>Additional Software</i></b>
       </div>
     </td>
     <!-- CAD Software -->
     <td align="center" rowspan="1">
       <div style="min-width:140px;">
+        <p hidden>____________________</p>
         <b><i>CAD Software</i></b>
       </div>
     </td>
     <!-- Office Software -->
     <td align="center" rowspan="1">
       <div style="min-width:140px;">
+        <p hidden>____________________</p>
         <b><i>Office Software</i></b>
       </div>
     </td>
     <!-- Selected COTS Part OEMs -->
     <td align="center" rowspan="1">
-      <div style="min-width:140px;">
+      <div style="min-width:230px;">
+        <p hidden>__________________________________</p>
         <b><i>Selected COTS Part OEMs</i></b>
       </div>
     </td>
     <!-- Selected Equipment OEMs -->
     <td align="center" rowspan="1">
-      <div style="min-width:140px;">
+      <div style="min-width:230px;">
+        <p hidden>__________________________________</p>
         <b><i>Selected Equipment OEMs</i></b>
       </div>
     </td>
     <!-- Additional Favorite Vendors -->
     <td align="center" rowspan="1">
       <div style="min-width:140px;">
+        <p hidden>____________________</p>
         <b><i>Additional Favorite Vendors</i></b>
       </div>
     </td>
@@ -255,39 +262,45 @@ Here are some ideas to get you started:
     <!-- Programming Languages -->
     <!-- C++ -->
     <td align="center">
-      <div style="min-width:80px;">
+      <div>
+        <p hidden>____________________</p>
         <b>C++ 11+</b>
       </div>
     </td>
     <td align="center">
-      <div style="min-width:80px;">
+      <div>
+        <p hidden>________________</p>
         <b>Arduino</b>
       </div>
     </td>
     <!-- Java -->
     <td align="center">
-      <div style="min-width:80px;">
+      <div>
+        <p hidden>____________________</p>
         <b>Java 8+</b>
       </div>
     </td>
     <td align="center">
-      <div style="min-width:80px;">
+      <div>
+        <p hidden>________________</p>
         <b>Javadoc</b>
       </div>
     </td>
     <td align="center">
-      <div style="min-width:80px;">
+      <div>
+        <p hidden>________________</p>
         <b>WPILib</b>
       </div>
     </td>
     <!-- Python -->
     <td align="center">
-      <div style="min-width:80px;">
+      <div>
+        <p hidden>____________________</p>
         <b>Python 3</b>
       </div>
     </td>
     <td align="center" rowspan="2">
-      <div style="min-width:140px;">
+      <div>
         Easy SCPI<br>
         logging<br>
         ODrive<br>
@@ -298,104 +311,122 @@ Here are some ideas to get you started:
     </td>
     <!-- HDLs -->
     <td align="center">
-      <div style="min-width:80px;">
+      <div>
+        <p hidden>________________</p>
         <b>SystemVerilog</b>
       </div>
     </td>
     <td align="center">
-      <div style="min-width:140px;">
+      <div>
+        <p hidden>_______________</p>
         AMD (Xilinx) <b>Vivado</b>
       </div>
     </td>
     <!-- Markup Languages -->
     <td align="center">
-      <div style="min-width:80px;">
+      <div>
+        <p hidden>________________</p>
         <b>HTML</b>
       </div>
     </td>
     <td align="center">
-      <div style="min-width:80px;">
+      <div>
+        <p hidden>________________</p>
         <b>Markdown</b>
       </div>
     </td>
     <!-- Scripting Languages -->
     <td align="center">
-      <div style="min-width:80px;">
+      <div>
+        <p hidden>________________</p>
         <b>Windows CMD</b>
       </div>
     </td>
     <td align="center">
-      <div style="min-width:140px;">
+      <div>
         <b>Standard Commands for Programmable Instruments (SCPI)</b>
     </td>
     <!-- Tools -->
     <td align="center">
-      <div style="min-width:80px;">
+      <div>
+        <p hidden>________________</p>
         <b>Doxygen</b>
       </div>
     </td>
     <td align="center">
-      <div style="min-width:80px;">
+      <div>
+        <p hidden>________________</p>
         <b>Draw.io</b>
     </td>
     <td align="center">
-      <div style="min-width:80px;">
+      <div>
+        <p hidden>________________</p>
         <b>WireViz</b>
     </td>
     <!-- OS -->
     <td align="center">
-      <div style="min-width:80px;">
+      <div>
+        <p hidden>________________</p>
         <b>Windows 7/8/10+</b>
       </div>
     </td>
     <td align="center">
-      <div style="min-width:80px;">
+      <div>
+        <p hidden>________________</p>
         <b>Debian Linux</b>
     </td>
     <!-- Developer Platforms -->
     <td align="center">
-      <div style="min-width:80px;">
+      <div>
+        <p hidden>________________</p>
         <b>GitHub</b>
       </div>
     </td>
     <td align="center">
-      <div style="min-width:80px;">
+      <div>
+        <p hidden>________________</p>
         <b>GitHub Actions</b>
       </div>
     </td>
     <td align="center">
-      <div style="min-width:80px;">
+      <div>
+        <p hidden>________________</p>
         <b>GitLab</b>
     </td>
     <!-- IDEs -->
     <td align="center">
-      <div style="min-width:80px;">
+      <div>
+        <p hidden>________________</p>
         Microsoft <b>Visual Studio Code</b>
       </div>
     </td>
     <td align="center">
-      <div style="min-width:80px;">
+      <div>
+        <p hidden>________________</p>
         JetBrains <b>Pycharm</b>
       </div>
     </td>
     <td align="center">
-      <div style="min-width:80px;">
+      <div>
+        <p hidden>________________</p>
         JetBrains <b>IDEA</b>
       </div>
     </td>
     <td align="center">
-      <div style="min-width:80px;">
+      <div>
+        <p hidden>________________</p>
         <b>Eclipse</b>
       </div>
     </td>
     <td align="center">
-      <div style="min-width:80px;">
+      <div>
+        <p hidden>________________</p>
         <b>Notepad++</b>
       </div>
     </td>
     <!-- Additional Software -->
     <td align="center" rowspan="2">
-      <div style="min-width:140px;">
+      <div>
         Confluence<br>
         Git<br>
         Jira<br>
@@ -405,7 +436,7 @@ Here are some ideas to get you started:
     </td>
     <!-- CAD Software -->
     <td align="center" rowspan="2">
-      <div style="min-width:140px;">
+      <div>
         Autodesk AutoCad<br>
         Autodesk Fusion360<br>
         Autodesk Revit<br>
@@ -414,7 +445,7 @@ Here are some ideas to get you started:
     </td>
     <!-- Office Software -->
     <td align="center" rowspan="2">
-      <div style="min-width:140px;">
+      <div>
         Adobe Acrobat<br>
         Apache OpenOffice<br>
         Google Workspace<br>
@@ -423,7 +454,7 @@ Here are some ideas to get you started:
     </td>
     <!-- Selected COTS Part OEMs -->
     <td align="center" rowspan="2">
-      <div style="min-width:220px;">
+      <div>
         Adafruit Industries<br>
         Arduino (Uno Rev3)<br>
         Cross the Road Electronics<br>
@@ -437,7 +468,7 @@ Here are some ideas to get you started:
     </td>
     <!-- Selected Equipment OEMs -->
     <td align="center" rowspan="2">
-      <div style="min-width:150px;">
+      <div>
         Agilent Technologies, Inc.<br>
         Asus<br>
         Dell<br>
@@ -450,7 +481,7 @@ Here are some ideas to get you started:
     </td>
     <!-- Additional Favorite Vendors -->
     <td align="center" rowspan="2">
-      <div style="min-width:140px;">
+      <div>
         AndyMark, Inc.<br>
         Digi-Key Electronics<br>
         Grainger<br>
@@ -462,133 +493,142 @@ Here are some ideas to get you started:
     <!-- Programming Languages -->
     <!-- C++ -->
     <td align="center">
-      <div style="min-width:80px;">
-        (General, Multi-paradigm, Embedded, OOP)
+      <div>
+        (General,<br>
+        Multi-paradigm,<br>
+        Embedded,<br>
+        OOP)
       </div>
     </td>
     <td align="center">
-      <div style="min-width:80px;">
+      <div>
         (Embedded Framework)
       </div>
     </td>
     <!-- Java -->
     <td align="center">
-      <div style="min-width:80px;">
-        (General, Multi-paradigm, OOP)
+      <div>
+        (General,<br>
+        Multi-paradigm,<br>
+        OOP)
       </div>
     </td>
     <td align="center">
-      <div style="min-width:80px;">
+      <div>
         (Documentation Tool)
       </div>
     </td>
     <td align="center">
-      <div style="min-width:80px;">
+      <div>
         (Robotics Framework)
       </div>
     </td>
     <!-- Python -->
     <td align="center">
-      <div style="min-width:80px;">
-        (General, Scripting, Multi-paradigm, OOP)
+      <div>
+        (General,<br>
+        Scripting,<br>
+        Multi-paradigm,<br>
+        OOP)
       </div>
     </td>
     <!-- Python -->
     <!-- HDLs -->
     <td align="center">
-      <div style="min-width:80px;">
+      <div>
         (Hardware Description Language)
       </div>
     </td>
     <td align="center">
-      <div style="min-width:140px;">
+      <div>
         (FPGA Design Suite)
       </div>
     </td>
     <!-- Markup Languages -->
     <td align="center">
-      <div style="min-width:80px;">
+      <div>
         (Markup)
       </div>
     </td>
     <td align="center">
-      <div style="min-width:80px;">
+      <div>
         (Markup)
       </div>
     </td>
     <!-- Scripting Languages -->
     <td align="center">
-      <div style="min-width:80px;">
+      <div>
         (Shell)
       </div>
     </td>
     <td align="center">
-      <div style="min-width:140px;">
+      <div>
+        <p hidden>____________________</p>
         (Shell Commands)
     </td>
     <!-- Tools -->
     <td align="center">
-      <div style="min-width:80px;">
+      <div>
         (Documentation Tool)
       </div>
     </td>
     <td align="center">
-      <div style="min-width:80px;">
+      <div>
         (General Diagramming Tool)
       </div>
     </td>
     <td align="center">
-      <div style="min-width:80px;">
+      <div>
         (Wiring Diagramming Tool)
     </td>
     <!-- OS -->
     <td align="center">
-      <div style="min-width:80px;">
+      <div>
         (OS)
       </div>
     </td>
     <td align="center">
-      <div style="min-width:80px;">
+      <div>
         (OS)
     </td>
     <!-- Developer Platforms -->
     <td align="center">
-      <div style="min-width:80px;">
+      <div>
         (Developer Platform)
       </div>
     </td>
     <td align="center">
-      <div style="min-width:80px;">
+      <div>
         (CI/CD)
       </div>
     </td>
     <td align="center">
-      <div style="min-width:80px;">
+      <div>
         (Developer Platform)
     </td>
     <!-- IDEs -->
     <td align="center">
-      <div style="min-width:80px;">
+      <div>
         (General IDE)
       </div>
     </td>
     <td align="center">
-      <div style="min-width:80px;">
+      <div>
         (IDE)
       </div>
     </td>
     <td align="center">
-      <div style="min-width:80px;">
+      <div>
         (IDE)
       </div>
     </td>
     <td align="center">
-      <div style="min-width:80px;">
+      <div>
         (IDE)
       </div>
     </td>
     <td align="center">
-      <div style="min-width:80px;">
+      <div>
         (Text Editor)
       </div>
     </td>
