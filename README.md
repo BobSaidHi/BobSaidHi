@@ -114,7 +114,7 @@ Here are some ideas to get you started:
     </td>
     <td align="center" rowspan="1">
       <div style="min-width:80px;">
-        <p hidden>________________</p>
+        <spacer type="horizontal" size="80">
         <i>Additional Python Libraries</i>
       </div>
     </td>
@@ -216,43 +216,43 @@ Here are some ideas to get you started:
     </td>
     <!-- Additional Software -->
     <td align="center" rowspan="1">
-      <div style="min-width:140px;">
-        <p hidden>________________</p>
+      <div style="min-width:80px;">
+        <spacer type="horizontal" size="80">
         <b><i>Additional Software</i></b>
       </div>
     </td>
     <!-- CAD Software -->
     <td align="center" rowspan="1">
       <div style="min-width:140px;">
-        <p hidden>____________________</p>
+        <spacer type="horizontal" size="140">
         <b><i>CAD Software</i></b>
       </div>
     </td>
     <!-- Office Software -->
     <td align="center" rowspan="1">
       <div style="min-width:140px;">
-        <p hidden>____________________</p>
+        <spacer type="horizontal" size="140">
         <b><i>Office Software</i></b>
       </div>
     </td>
     <!-- Selected COTS Part OEMs -->
     <td align="center" rowspan="1">
       <div style="min-width:230px;">
-        <p hidden>__________________________________</p>
+        <spacer type="horizontal" size="230">
         <b><i>Selected COTS Part OEMs</i></b>
       </div>
     </td>
     <!-- Selected Equipment OEMs -->
     <td align="center" rowspan="1">
       <div style="min-width:230px;">
-        <p hidden>__________________________________</p>
+        <spacer type="horizontal" size="230">
         <b><i>Selected Equipment OEMs</i></b>
       </div>
     </td>
     <!-- Additional Favorite Vendors -->
     <td align="center" rowspan="1">
       <div style="min-width:140px;">
-        <p hidden>____________________</p>
+        <spacer type="horizontal" size="140">
         <b><i>Additional Favorite Vendors</i></b>
       </div>
     </td>
@@ -263,39 +263,39 @@ Here are some ideas to get you started:
     <!-- C++ -->
     <td align="center">
       <div>
-        <p hidden>____________________</p>
+        <spacer type="horizontal" size="140">
         <b>C++ 11+</b>
       </div>
     </td>
     <td align="center">
       <div>
-        <p hidden>________________</p>
+        <spacer type="horizontal" size="80">
         <b>Arduino</b>
       </div>
     </td>
     <!-- Java -->
     <td align="center">
       <div>
-        <p hidden>____________________</p>
+        <spacer type="horizontal" size="140">
         <b>Java 8+</b>
       </div>
     </td>
     <td align="center">
       <div>
-        <p hidden>________________</p>
+        <spacer type="horizontal" size="80">
         <b>Javadoc</b>
       </div>
     </td>
     <td align="center">
       <div>
-        <p hidden>________________</p>
+        <spacer type="horizontal" size="80">
         <b>WPILib</b>
       </div>
     </td>
     <!-- Python -->
     <td align="center">
       <div>
-        <p hidden>____________________</p>
+        <spacer type="horizontal" size="140">
         <b>Python 3</b>
       </div>
     </td>
@@ -312,33 +312,33 @@ Here are some ideas to get you started:
     <!-- HDLs -->
     <td align="center">
       <div>
-        <p hidden>________________</p>
+        <spacer type="horizontal" size="80">
         <b>SystemVerilog</b>
       </div>
     </td>
     <td align="center">
       <div>
-        <p hidden>_______________</p>
+        <spacer type="horizontal" size="80">
         AMD (Xilinx) <b>Vivado</b>
       </div>
     </td>
     <!-- Markup Languages -->
     <td align="center">
       <div>
-        <p hidden>________________</p>
+        <spacer type="horizontal" size="80">
         <b>HTML</b>
       </div>
     </td>
     <td align="center">
       <div>
-        <p hidden>________________</p>
+        <spacer type="horizontal" size="80">
         <b>Markdown</b>
       </div>
     </td>
     <!-- Scripting Languages -->
     <td align="center">
       <div>
-        <p hidden>________________</p>
+        <spacer type="horizontal" size="80">
         <b>Windows CMD</b>
       </div>
     </td>
@@ -349,78 +349,78 @@ Here are some ideas to get you started:
     <!-- Tools -->
     <td align="center">
       <div>
-        <p hidden>________________</p>
+        <spacer type="horizontal" size="80">
         <b>Doxygen</b>
       </div>
     </td>
     <td align="center">
       <div>
-        <p hidden>________________</p>
+        <spacer type="horizontal" size="80">
         <b>Draw.io</b>
     </td>
     <td align="center">
       <div>
-        <p hidden>________________</p>
+        <spacer type="horizontal" size="80">
         <b>WireViz</b>
     </td>
     <!-- OS -->
     <td align="center">
       <div>
-        <p hidden>________________</p>
+        <spacer type="horizontal" size="80">
         <b>Windows 7/8/10+</b>
       </div>
     </td>
     <td align="center">
       <div>
-        <p hidden>________________</p>
+        <spacer type="horizontal" size="80">
         <b>Debian Linux</b>
     </td>
     <!-- Developer Platforms -->
     <td align="center">
       <div>
-        <p hidden>________________</p>
+        <spacer type="horizontal" size="80">
         <b>GitHub</b>
       </div>
     </td>
     <td align="center">
       <div>
-        <p hidden>________________</p>
+        <spacer type="horizontal" size="80">
         <b>GitHub Actions</b>
       </div>
     </td>
     <td align="center">
       <div>
-        <p hidden>________________</p>
+        <spacer type="horizontal" size="80">
         <b>GitLab</b>
     </td>
     <!-- IDEs -->
     <td align="center">
       <div>
-        <p hidden>________________</p>
+        <spacer type="horizontal" size="80">
         Microsoft <b>Visual Studio Code</b>
       </div>
     </td>
     <td align="center">
       <div>
-        <p hidden>________________</p>
+        <spacer type="horizontal" size="80">
         JetBrains <b>Pycharm</b>
       </div>
     </td>
     <td align="center">
       <div>
-        <p hidden>________________</p>
+        <spacer type="horizontal" size="80">
         JetBrains <b>IDEA</b>
       </div>
     </td>
     <td align="center">
       <div>
-        <p hidden>________________</p>
+        <spacer type="horizontal" size="80">
         <b>Eclipse</b>
       </div>
     </td>
     <td align="center">
       <div>
-        <p hidden>________________</p>
+        <spacer type="horizontal" size="80">
         <b>Notepad++</b>
       </div>
     </td>
@@ -563,7 +563,7 @@ Here are some ideas to get you started:
     </td>
     <td align="center">
       <div>
-        <p hidden>____________________</p>
+        <spacer type="horizontal" size="140">
         (Shell Commands)
     </td>
     <!-- Tools -->
