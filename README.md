@@ -420,7 +420,7 @@ Here are some ideas to get you started:
     </td>
     <td align="center">
       <div>
-        <b>Notepad++</b>
+        <nobr><b>Notepad++</b></nobr>
         <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
       </div>
     </td>
