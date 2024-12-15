@@ -5,6 +5,7 @@ AndyMark
 Artix
 ASM
 Asus
+AutoCad
 Autodesk
 Basys
 BobSaidHi
@@ -31,6 +32,7 @@ Mech
 Netgear
 ODrive
 OEMs
+OOP
 PuTTY
 Pycharm
 PySimpleGui
