@@ -669,7 +669,6 @@ The inclusion of my some of the technologies I am familiar with was inspired by 
 
 <br>
 <br>
-<br>
 
 *Updated Fall 2024*
 
