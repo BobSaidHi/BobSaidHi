@@ -288,7 +288,7 @@ Here are some ideas to get you started:
     </td>
     <td align="center">
       <div>
-        <b>WPILib</b> (2018-21)
+        <b>WPILib</b> (2018-22)
         <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
       </div>
     </td>
