@@ -366,7 +366,7 @@ Here are some ideas to get you started:
     <!-- OS -->
     <td align="center">
       <div>
-        <b>Windows 7/8/10+</b>
+        <b>Windows</b> 7/8/10+
         <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
       </div>
     </td>
