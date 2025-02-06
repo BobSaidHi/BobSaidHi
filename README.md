@@ -288,7 +288,7 @@ Here are some ideas to get you started:
     </td>
     <td align="center">
       <div>
-        <b>WPILib</b>
+        <b>WPILib</b> (2018-21)
         <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
       </div>
     </td>
@@ -670,5 +670,5 @@ The inclusion of my some of the technologies I am familiar with was inspired by 
 <br>
 <br>
 
-*Updated Fall 2024*
+*Updated Winter 2024/25*
 
