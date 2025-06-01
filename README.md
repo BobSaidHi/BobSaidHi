@@ -33,7 +33,7 @@ Here are some ideas to get you started:
     src="https://github-readme-stats-omega-drab-90.vercel.app/api?username=BobSaidHi&show_icons=true&theme=transparent"
     alt="BobSaidHi's GitHub Stats" />
   <img height=225 align="center"
-    src="https://github-readme-stats-omega-drab-90.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing,C,VHDL&size_weight=0.75&count_weight=0.25&langs_count=5"
+    src="https://github-readme-stats-omega-drab-90.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing,VHDL&size_weight=0.75&count_weight=0.25&langs_count=6"
     alt="BobSaidHi's Most Used Languages" />
 </div>
 <!-- End HTML -->
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 | <center>Default Weighting<br>(100% by byte count, 0% by repository count)</center> | <center>Recommended Weighting<br>(50% by byte count, 50% by repository count)</center> |
 | --- | --- |
-| <center><img height=450 align="center" src="https://github-readme-stats-omega-drab-90.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing,VHDL,Perl,Makefile&size_weight=1&count_weight=0.5&langs_count=9" alt="BobSaidHi's Most Used Languages" /></center> | <center><img height=450 align="center" src="https://github-readme-stats-omega-drab-90.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing,VHDL,Perl,Makefile&size_weight=0.5&count_weight=0.5&langs_count=10" alt="BobSaidHi's Most Used Languages" /></center> |
+| <center><img height=450 align="center" src="https://github-readme-stats-omega-drab-90.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing,VHDL,Perl&size_weight=1&count_weight=0.5&langs_count=9" alt="BobSaidHi's Most Used Languages" /></center> | <center><img height=450 align="center" src="https://github-readme-stats-omega-drab-90.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing,VHDL,Perl&size_weight=0.5&count_weight=0.5&langs_count=10" alt="BobSaidHi's Most Used Languages" /></center> |
 
 </details>
 
