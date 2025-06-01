@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 | <center>Default Weighting<br>(100% by byte count, 0% by repository count)</center> | <center>Recommended Weighting<br>(50% by byte count, 50% by repository count)</center> |
 | --- | --- |
-| <center><img height=450 align="center" src="https://github-readme-stats-omega-drab-90.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing,VHDL,Perl&size_weight=1&count_weight=0.5&langs_count=9" alt="BobSaidHi's Most Used Languages" /></center> | <center><img height=450 align="center" src="https://github-readme-stats-omega-drab-90.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing,VHDL,Perl&size_weight=0.5&count_weight=0.5&langs_count=10" alt="BobSaidHi's Most Used Languages" /></center> |
+| <center><img height=250 align="center" src="https://github-readme-stats-omega-drab-90.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing,VHDL,Perl&size_weight=1&count_weight=0.5&langs_count=10&layout=compact" alt="BobSaidHi's Most Used Languages" /></center> | <center><img height=250 align="center" src="https://github-readme-stats-omega-drab-90.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing,VHDL,Perl&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact" alt="BobSaidHi's Most Used Languages" /></center> |
 
 </details>
 
