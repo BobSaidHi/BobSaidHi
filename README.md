@@ -103,8 +103,9 @@ Easy SCPI, logging, ODrive, PySimpleGui, Pytest PyVISA, & Requests •
 • Standard Commands for Programmable Instruments (SCPI) •
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
-#### Editors, IDEs, Hosts, Version Control, and Documentation Tools
+#### Tooling
 
+**Editors, IDEs, Hosts, & Version Control**
 AMD (Xilinx) Vivado •
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
@@ -122,30 +123,24 @@ Docker Compose
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
 ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-#### Documentations
-
+**Documentation Tools**
 ![Doxygen](https://img.shields.io/badge/doxygen-2C4AA8?style=for-the-badge&logo=doxygen&logoColor=white)
 • DigiKey Scheme-It •
 ![Diagrams.net (Formerly Draw.io)](https://img.shields.io/badge/diagrams.net_(Formerly_draw.io)-%23F08705?style=for-the-badge&logo=diagramsdotnet)
 • Javadoc •
 ![UML](https://img.shields.io/badge/UML-%23FABD14?style=for-the-badge&logo=uml)
-• WireViz
-
-#### CI/CD
-
+• WireViz:**
+**CI/CD:**
 ![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)
-
-#### AI Tools (Not my favorite approach to problem solving, but can be useful when used right)
-
-> When using AI tools, one must always verify the output and dedicate time to keeping their traditional skills sharp
-
+**AI Tools**
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
 ![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+
+> When using AI tools, one must always verify the output and dedicate time to keeping their traditional skills sharp
 
 #### Office
 
