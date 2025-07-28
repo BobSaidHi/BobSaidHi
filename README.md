@@ -70,6 +70,40 @@ Here are some ideas to get you started:
 
 </details>
 
+<!-- Begin HTML -->
+<details>
+<summary>Languages Used in Most Projects over All Time (Since Winter 2024-25) (Powered by wakatime.com)</summary>
+
+<!-- PNG version: https://wakatime.com/share/@BobSaidHi/ce6be866-4c3b-4e31-8919-91dc5485cd2e.png -->
+<!-- SVG version: https://wakatime.com/share/@BobSaidHi/d5403ac7-ec5c-4a8e-9c99-2ab6ed87d7f0.svg -->
+<!-- SVG version (No title): https://wakatime.com/share/@BobSaidHi/9b40d0e1-f14e-4c90-9694-0411dc0c806d.svg -->
+
+
+<!-- Private Instance w/ better formatting -->
+<div>
+  <img height=500 align="center"
+    src="https://wakatime.com/share/@BobSaidHi/9b40d0e1-f14e-4c90-9694-0411dc0c806d.svg"
+    alt="Languages Used in Most Projects over All Time (Since Winter 2024-25) (Powered by wakatime.com)" />
+</div>
+
+</details>
+
+<details>
+<summary>Editors Used in Most Projects over All Time (Since Winter 2024-25) (Powered by wakatime.com)</summary>
+
+<!-- SVG version (No title): https://wakatime.com/share/@BobSaidHi/9b40d0e1-f14e-4c90-9694-0411dc0c806d.svg -->
+
+
+<!-- Private Instance w/ better formatting -->
+<div>
+  <img height=500 align="center"
+    src="https://wakatime.com/share/@BobSaidHi/5d801706-f083-4aea-b63c-5755058e2856.svg"
+    alt="Editors Used in Most Projects over All Time (Since Winter 2024-25) (Powered by wakatime.com)" />
+</div>
+
+</details>
+<!-- End HTML -->
+
 ### Technologies
 
 > These have been ordered such that relevant libraries follow each language.  Platforms, tools, hardware, and vendors are shown at the end.
