@@ -100,10 +100,11 @@ Windows CMD
 Standard Commands for Programmable Instruments (SCPI)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
-**Editors, IDEs, Hosts, and Version Control**:
+**Editors, IDEs, Hosts, Version Control, and Documentation Tools**:
 
 AMD (Xilinx) Vivado
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) (Learning)
 Docker Compose
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
@@ -118,10 +119,9 @@ Docker Compose
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
 ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
 **Documentations**:
 
-![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+
 ![Doxygen](https://img.shields.io/badge/doxygen-2C4AA8?style=for-the-badge&logo=doxygen&logoColor=white)
 DigiKey Scheme-It
 Draw.io
@@ -184,19 +184,11 @@ Google Workspace
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
-**Hardware**:
-
-![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)
-
 **Additional Technologies I'm learning**:
 
-Autodesk AutoCad
-Autodesk Fusion360
-Autodesk Revit
+Autodesk AutoCad,
+Autodesk Fusion360,
+Autodesk Revit,
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
@@ -207,32 +199,40 @@ Autodesk Revit
 
 **AI Tools** (Not my favorite approach to problem solving, but can be useful when used right):
 
+> When using AI tools, one must always verify the output and dedicate time to keeping their traditional skills sharp
+
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
 ![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
 
 **Selected COTS Parts OEMs I'm familiar with**
-Adafruit Industries
-Arduino (Uno Rev3)
-Cross the Road Electronics (CTRE)
-Digilent (Basys 3 Artix-7 FPGA)
-Espressif Systems (ESP32)
-National Instruments (roboRIO)
-Raspberry Pi (3b)
-REV Robotics
+
+Adafruit Industries •
+Arduino (Uno Rev3) •
+Cross the Road Electronics (CTRE) •
+Digilent (Basys 3 Artix-7 FPGA) •
+![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
+ (ESP32) •
+National Instruments (roboRIO) •
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+ (3b) •
+REV Robotics •
 VEX Robotics
 
 **Selected Equipment OEMs I'm familiar with**
 
-Agilent Technologies, Inc.
-Asus
-Dell
-HP
-Keysight Technologies
-Netgear
-RIGOL Technologies
-Siglent Technologies
+![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) •
+Agilent Technologies, Inc. •
+Asus •
+Dell •
+HP •
+Keysight Technologies •
+Netgear •
+![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) •
+RIGOL Technologies •
+![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white) •
+Siglent Technologies •
 
 **Selected Vendors I'm familiar with**
 AndyMark, Inc.
