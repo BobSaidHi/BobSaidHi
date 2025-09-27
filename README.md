@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Stats
-
 [Profile Trophies Link](https://github-profile-trophy.vercel.app/?username=BobSaidHi) by [Ryota Sakamoto](https://github.com/ryo-ma/github-profile-trophy)
+
+### Stats
 
 <!-- Public Instance
 ![BobSaidHi's GitHub stats](https://github-readme-stats.vercel.app/api?username=BobSaidHi&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing)
