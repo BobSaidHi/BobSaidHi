@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <!-- End HTML -->
 
 > *Language Statistics Method/ Weights:* 75% by byte count, 25% by repository count, excluding forked repositories, and contributions to other users/organizations.  I also manually excluded some of languages that I'm not very familiar with and must have bee auto-generated.  I feel this weighting portrays my language usage statistics more accurately.
-<!-- Apparently, details is an actual HTML element, but GitHub officially supports mixing it with Mardown -->
+<!-- Apparently, details is an actual HTML element, but GitHub officially supports mixing it with Markdown -->
 <details>
 <summary>Alternative Weightings</summary>
 
@@ -110,576 +110,83 @@ Here are some ideas to get you started:
 
 ### Technologies
 
-> These have been ordered such that relevant libraries follow each language.  Platforms, tools, hardware, and vendors are shown at the end.
+#### Favorites
 
-<!-- Begin HTML -->
-<!-- Programming Languages -->
-<table>
-  <!-- Icons -->
-  <tr>
-    <!-- Programming Languages -->
-    <!-- C++ -->
-    <td align="center">
-      <div style="min-width:120px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ Logo" width="65" />
-      </div>
-    </td>
-    <td align="center">
-      <div style="min-width:80px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino Logo" width="65" />
-      </div>
-    </td>
-    <!-- Java -->
-    <td align="center">
-      <div style="min-width:120px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="Java Logo" width="65" />
-      </div>
-    </td>
-    <td align="center">
-      <div style="min-width:120;">
-      </div>
-    </td>
-    <td align="center">
-      <div style="min-width:80px;">
-        <img src="https://github.com/user-attachments/assets/0612e8f0-f786-4159-861a-738c06d36ccf" alt="WPILib Logo" width="65" />
-      </div>
-    </td>
-    <!-- Python -->
-    <td align="center">
-      <div style="min-width:120px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="65" />
-      </div>
-    </td>
-    <td align="center" rowspan="1">
-      <div style="min-width:80px;">
-        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-        <b><i>Additional Python Libraries</i></b>
-      </div>
-    </td>
-    <!-- HDLs -->
-    <td align="center">
-      <div style="min-width:80px;">
-      </div>
-    </td>
-    <td align="center">
-      <div style="min-width:80px;">
-        <img
-          src="https://flathub.org/_next/image?url=https%3A%2F%2Fdl.flathub.org%2Fmedia%2Fcom%2Fgithub%2Fcorna.Vivado%2F07ad2cd5a0a53383dce2081f799f9726%2Ficons%2F128x128%2Fcom.github.corna.Vivado.png&w=256&q=100"
-          alt="Vivado Logo" width="65" />
-      </div>
-    </td>
-    <!-- Markup Languages -->
-    <td align="center">
-      <div style="min-width:80px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="65" />
-      </div>
-    </td>
-    <td align="center">
-      <div style="min-width:80px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/markdown.svg" alt="Markdown Logo" width="65" />
-      </div>
-    </td>
-    <!-- Scripting Languages -->
-    <td align="center">
-      <div style="min-width:80px;">
-        <img src="https://upload.wikimedia.org/wikipedia/en/e/ef/Command_prompt_icon_%28windows%29.png" alt="Command Prompt Icon"
-          width="65" />
-      </div>
-    </td>
-    <td align="center">
-      <div style="min-width:140px;">
-        <img src="https://ivifoundation.org/assets/images/square-logo.png" alt="IVI Foundation Logo" width="65" />
-    </td>
-    <!-- Tools -->
-    <td align="center">
-      <div style="min-width:80px;">
-      </div>
-    </td>
-    <td align="center">
-      <div style="min-width:80px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/draw-io.svg" alt="Draw.io Logo" width="65" />
-    </td>
-    <td align="center">
-      <div style="min-width:80px;">
-    </td>
-    <!-- OS -->
-    <td align="center">
-      <div style="min-width:80px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" alt="Windows 10 Logo" width="65" />
-      </div>
-    </td>
-    <td align="center">
-      <div style="min-width:80px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/debian-2.svg" alt="Debian Logo" width="65" />
-    </td>
-    <!-- Developer Platforms -->
-    <td align="center">
-      <div style="min-width:80px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub Logo" width="65" />
-      </div>
-    </td>
-    <td align="center">
-      <div style="min-width:80px;">
-      </div>
-    </td>
-    <td align="center">
-      <div style="min-width:80px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="GitLab Logo" width="65" />
-    </td>
-    <!-- IDEs -->
-    <td align="center">
-      <div style="min-width:80px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code Logo" width="65" />
-      </div>
-    </td>
-    <td align="center">
-      <div style="min-width:80px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/jetbrains-pycharm.svg" alt="PyCharm Logo" width="65" />
-      </div>
-    </td>
-    <td align="center">
-      <div style="min-width:80px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="JetBrains IDEA Logo" width="65" />
-      </div>
-    </td>
-    <td align="center">
-      <div style="min-width:80px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" alt="Eclipse Logo" width="65" />
-      </div>
-    </td>
-    <td align="center">
-      <div style="min-width:80px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/notepadd-.svg" alt="Notepad++ Logo" width="65" />
-      </div>
-    </td>
-    <!-- Additional Software -->
-    <td align="center" rowspan="1">
-      <div style="min-width:140px;">
-        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-        <b><i>Additional Software</i></b>
-      </div>
-    </td>
-    <!-- CAD Software -->
-    <td align="center" rowspan="1">
-      <div style="min-width:140px;">
-        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-        <b><i>CAD Software</i></b>
-      </div>
-    </td>
-    <!-- Office Software -->
-    <td align="center" rowspan="1">
-      <div style="min-width:140px;">
-        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-        <b><i>Office Software</i></b>
-      </div>
-    </td>
-    <!-- Selected COTS Part OEMs -->
-    <td align="center" rowspan="1">
-      <div style="min-width:230px;">
-        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-        <b><i>Selected COTS Part OEMs</i></b>
-      </div>
-    </td>
-    <!-- Selected Equipment OEMs -->
-    <td align="center" rowspan="1">
-      <div style="min-width:230px;">
-        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-        <b><i>Selected Equipment OEMs</i></b>
-      </div>
-    </td>
-    <!-- Additional Favorite Vendors -->
-    <td align="center" rowspan="1">
-      <div style="min-width:140px;">
-        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-        <b><i>Additional Favorite Vendors</i></b>
-      </div>
-    </td>
-  </tr>
-  <!-- Names  -->
-  <tr>
-    <!-- Programming Languages -->
-    <!-- C++ -->
-    <td align="center">
-      <div>
-        <b>C++ 11+</b>
-        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-      </div>
-    </td>
-    <td align="center">
-      <div>
-        <b>Arduino</b>
-        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-      </div>
-    </td>
-    <!-- Java -->
-    <td align="center">
-      <div>
-        <b>Java 8+</b>
-        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-      </div>
-    </td>
-    <td align="center">
-      <div>
-        <b>Javadoc</b>
-        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-      </div>
-    </td>
-    <td align="center">
-      <div>
-        <b>WPILib</b> (2019-22)
-        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-      </div>
-    </td>
-    <!-- Python -->
-    <td align="center">
-      <div>
-        <b>Python 3</b>
-        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-      </div>
-    </td>
-    <td align="center" rowspan="2">
-      <div>
-        Easy&nbsp;SCPI<br>
-        logging<br>
-        ODrive<br>
-        PySimpleGui<br>
-        PyVISA<br>
-        Requests<br>
-      </div>
-    </td>
-    <!-- HDLs -->
-    <td align="center">
-      <div>
-        <b>SystemVerilog</b>
-        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-      </div>
-    </td>
-    <td align="center">
-      <div>
-        AMD&nbsp;(Xilinx) <b>Vivado</b>
-        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      </div>
-    </td>
-    <!-- Markup Languages -->
-    <td align="center">
-      <div>
-        <b>HTML</b>
-        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-      </div>
-    </td>
-    <td align="center">
-      <div>
-        <b>Markdown</b>
-        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-      </div>
-    </td>
-    <!-- Scripting Languages -->
-    <td align="center">
-      <div>
-        <b>Windows CMD</b>
-        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-      </div>
-    </td>
-    <td align="center">
-      <div>
-        <b>Standard Commands for Programmable Instruments (SCPI)</b>
-    </td>
-    <!-- Tools -->
-    <td align="center">
-      <div>
-        <b>Doxygen</b>
-        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-      </div>
-    </td>
-    <td align="center">
-      <div>
-        <b>Draw.io</b>
-        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-    </td>
-    <td align="center">
-      <div>
-        <b>WireViz</b>
-        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-    </td>
-    <!-- OS -->
-    <td align="center">
-      <div>
-        <b>Windows</b> 7/8/10+
-        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-      </div>
-    </td>
-    <td align="center">
-      <div>
-        <b>Debian Linux</b>
-        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-    </td>
-    <!-- Developer Platforms -->
-    <td align="center">
-      <div>
-        <b>GitHub</b>
-        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-      </div>
-    </td>
-    <td align="center">
-      <div>
-        <b>GitHub Actions</b>
-        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-      </div>
-    </td>
-    <td align="center">
-      <div>
-        <b>GitLab</b>
-        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-    </td>
-    <!-- IDEs -->
-    <td align="center">
-      <div>
-        Microsoft <b>Visual Studio Code</b>
-        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-      </div>
-    </td>
-    <td align="center">
-      <div>
-        JetBrains <b>Pycharm</b>
-        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-      </div>
-    </td>
-    <td align="center">
-      <div>
-        JetBrains <b>IDEA</b>
-        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-      </div>
-    </td>
-    <td align="center">
-      <div>
-        <b>Eclipse</b>
-        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-      </div>
-    </td>
-    <td align="center">
-      <div>
-        <nobr><b>Notepad++</b></nobr>
-        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-      </div>
-    </td>
-    <!-- Additional Software -->
-    <td align="center" rowspan="2">
-      <div>
-        Confluence<br>
-        Git<br>
-        Jira<br>
-        PuTTY<br>
-        Trello<br>
-      </div>
-    </td>
-    <!-- CAD Software -->
-    <td align="center" rowspan="2">
-      <div>
-        Autodesk&nbsp;AutoCad<br>
-        Autodesk&nbsp;Fusion360<br>
-        Autodesk&nbsp;Revit<br>
-        DigiKey&nbsp;Scheme-It<br>
-      </div>
-    </td>
-    <!-- Office Software -->
-    <td align="center" rowspan="2">
-      <div>
-        Adobe&nbsp;Acrobat<br>
-        Apache&nbsp;OpenOffice<br>
-        Google&nbsp;Workspace<br>
-        Microsoft&nbsp;Office<br>
-      </div>
-    </td>
-    <!-- Selected COTS Part OEMs -->
-    <td align="center" rowspan="2">
-      <div>
-        Adafruit&nbsp;Industries<br>
-        Arduino&nbsp;(Uno&nbsp;Rev3)<br>
-        Cross&nbsp;the&nbsp;Road&nbsp;Electronics<br>
-        Digilent&nbsp;(Basys&nbsp;3&nbsp;Artix-7&nbsp;FPGA)<br>
-        Espressif&nbsp;Systems&nbsp;(ESP32)<br>
-        National&nbsp;Instruments&nbsp;(roboRIO)<br>
-        Raspberry&nbsp;Pi&nbsp;(3b)<br>
-        REV&nbsp;Robotics<br>
-        VEX&nbsp;Robotics<br>
-      </div>
-    </td>
-    <!-- Selected Equipment OEMs -->
-    <td align="center" rowspan="2">
-      <div>
-        Agilent&nbsp;Technologies,&nbsp;Inc.<br>
-        Asus<br>
-        Dell<br>
-        HP<br>
-        Keysight&nbsp;Technologies<br>
-        Netgear<br>
-        RIGOL&nbsp;Technologies<br>
-        Siglent&nbsp;Technologies<br>
-      </div>
-    </td>
-    <!-- Additional Favorite Vendors -->
-    <td align="center" rowspan="2">
-      <div>
-        AndyMark,&nbsp;Inc.<br>
-        Digi-Key&nbsp;Electronics<br>
-        Grainger<br>
-      </div>
-    </td>
-  </tr>
-  <!-- Entry Types -->
-  <tr>
-    <!-- Programming Languages -->
-    <!-- C++ -->
-    <td align="center">
-      <div>
-        (General,<br>
-        Multi&#8209;paradigm,<br>
-        Embedded,<br>
-        OOP)
-      </div>
-    </td>
-    <td align="center">
-      <div>
-        (Embedded Framework)
-      </div>
-    </td>
-    <!-- Java -->
-    <td align="center">
-      <div>
-        (General,<br>
-        Multi&#8209;paradigm,<br>
-        OOP)
-      </div>
-    </td>
-    <td align="center">
-      <div>
-        (Documentation Tool)
-      </div>
-    </td>
-    <td align="center">
-      <div>
-        (Robotics Framework)
-      </div>
-    </td>
-    <!-- Python -->
-    <td align="center">
-      <div>
-        (General,<br>
-        Scripting,<br>
-        Multi&#8209;paradigm,<br>
-        OOP)
-      </div>
-    </td>
-    <!-- Python -->
-    <!-- HDLs -->
-    <td align="center">
-      <div>
-        (Hardware Description Language)
-      </div>
-    </td>
-    <td align="center">
-      <div>
-        (FPGA Design Suite)
-      </div>
-    </td>
-    <!-- Markup Languages -->
-    <td align="center">
-      <div>
-        (Markup)
-      </div>
-    </td>
-    <td align="center">
-      <div>
-        (Markup)
-      </div>
-    </td>
-    <!-- Scripting Languages -->
-    <td align="center">
-      <div>
-        (Shell)
-      </div>
-    </td>
-    <td align="center">
-      <div>
-        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-        (Shell Commands)
-        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-    </td>
-    <!-- Tools -->
-    <td align="center">
-      <div>
-        (Documentation Tool)
-      </div>
-    </td>
-    <td align="center">
-      <div>
-        (General Diagramming Tool)
-      </div>
-    </td>
-    <td align="center">
-      <div>
-        (Wiring Diagramming Tool)
-    </td>
-    <!-- OS -->
-    <td align="center">
-      <div>
-        (OS)
-      </div>
-    </td>
-    <td align="center">
-      <div>
-        (OS)
-    </td>
-    <!-- Developer Platforms -->
-    <td align="center">
-      <div>
-        (Developer Platform)
-      </div>
-    </td>
-    <td align="center">
-      <div>
-        (CI/CD)
-      </div>
-    </td>
-    <td align="center">
-      <div>
-        (Developer Platform)
-    </td>
-    <!-- IDEs -->
-    <td align="center">
-      <div>
-        (General IDE)
-      </div>
-    </td>
-    <td align="center">
-      <div>
-        (IDE)
-      </div>
-    </td>
-    <td align="center">
-      <div>
-        (IDE)
-      </div>
-    </td>
-    <td align="center">
-      <div>
-        (IDE)
-      </div>
-    </td>
-    <td align="center">
-      <div>
-        (Text Editor)
-      </div>
-    </td>
-    <!-- Additional Software -->
-    <!-- CAD Software -->
-    <!-- Office Software -->
-    <!-- Selected COTS Part OEMs -->
-    <!-- Selected Equipment OEMs -->
-    <!-- Additional Favorite Vendors -->
-  </tr>
-</table>
-<!-- End HTML -->
+<!-- Programming & Debugging: !-->
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-%2300878F?style=for-the-badge&logo=arduino)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk)
+![System Verilog](https://img.shields.io/badge/System_Verilog-white?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4NCjwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIEdlbmVyYXRvcjogU1ZHIFJlcG8gTWl4ZXIgVG9vbHMgLS0%2BDQo8c3ZnIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDMyIDMyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9ImxpbmVhci1ncmFkaWVudCIgeDE9IjIiIHkxPSIyNi4yMjEiIHgyPSIyNS42MjUiIHkyPSIyNi4yMjEiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj48c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiMxYTM0OGYiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiNlNWU5YzYiLz48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCBpZD0ibGluZWFyLWdyYWRpZW50LTIiIHgxPSI2LjM3NSIgeTE9IjUuNzc5IiB4Mj0iMzAiIHkyPSI1Ljc3OSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPjxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iI2U1ZTljNiIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzFhMzQ4ZiIvPjwvbGluZWFyR3JhZGllbnQ%2BPC9kZWZzPjx0aXRsZT5maWxlX3R5cGVfc3lzdGVtdmVyaWxvZzwvdGl0bGU%2BPHBhdGggZD0iTTEzLjI2NCwxNy4yODlhNC40LDQuNCwwLDAsMC0uOS0xLjUxNEExMy43OCwxMy43OCwwLDAsMCwxMC41MDYsMTQuMiw4LjkyNCw4LjkyNCwwLDAsMSw4LjUsMTIuNDE5YTEuOTY5LDEuOTY5LDAsMCwxLS4zMzctMS4xMTMsMi4yMjYsMi4yMjYsMCwwLDEsLjUtMS40MzQsMS42LDEuNiwwLDAsMSwxLjMyMy0uNjQyLDEuNjQ1LDEuNjQ1LDAsMCwxLDEuMzIzLjY0OCw0LjUxLDQuNTEsMCwwLDEsLjc4LDIuMTM4bC4wMzUuMjIzLjI4LjA3OWEuNDE3LjQxNywwLDAsMCwuMjItLjA3NmwuMTIxLS4wNzcuMDI0LS4xODdjLjAxMS0uMDkuMDI4LS4yNzkuMDQzLS44ODRsLjAzMi0xLjAzNGMwLS4wOC0uMDIxLS4zODQtLjA2NS0uOTEzbC0uMDEzLS4xNTZMMTIuNjcsOC45YTMuNCwzLjQsMCwwLDAtLjk1NS0uNzI3LDMuNjA3LDMuNjA3LDAsMCwwLTEuNDc1LS4yNzlBMy4wNTgsMy4wNTgsMCwwLDAsNy43MjksOS4wODZhNC42NDEsNC42NDEsMCwwLDAtLjk2LDIuOTYzLDQuOTI0LDQuOTI0LDAsMCwwLC4yNzgsMS43MkE1LjkxNiw1LjkxNiwwLDAsMCw4LjExMywxNS41YTEzLjY3OSwxMy42NzksMCwwLDAsMS44MjEsMS41MjksNi43OSw2Ljc5LDAsMCwxLDEuNzQ3LDEuNywyLjc4NywyLjc4NywwLDAsMSwuMzk0LDEuNDU5LDMuMTM2LDMuMTM2LDAsMCwxLS4yNjMsMS4yLDIuMTQzLDIuMTQzLDAsMCwxLS43MjQuOTU2LDEuNzgsMS43OCwwLDAsMS0xLjA0Ni4zNEEyLjA2NCwyLjA2NCwwLDAsMSw4LjM3NiwyMS42OGE0LjIzNiw0LjIzNiwwLDAsMS0uODMtMi4zLDEuMTE2LDEuMTE2LDAsMCwwLS4xMTgtLjQ3NS4zNDYuMzQ2LDAsMCwwLS42MzguMDUyLDIuNDE4LDIuNDE4LDAsMCwwLS4wOTMuODEzYy0uMDA1LjU2Ny0uMDQ1LDEuMy0uMTE3LDIuMThxLS4wMTguMjIxLS4wMTguMzYyYTEuMSwxLjEsMCwwLDAsLjIuNjQyLDIuMDU1LDIuMDU1LDAsMCwwLC44LjU2Nyw0Ljc2LDQuNzYsMCwwLDAsMi4xNDIuNTEyLDMuNDg2LDMuNDg2LDAsMCwwLDIuMDkzLS41ODNBMy45NzIsMy45NzIsMCwwLDAsMTMuMDkzLDIxLjdhNi41LDYuNSwwLDAsMCwuNDc2LTIuNDg0QTUuNzgxLDUuNzgxLDAsMCwwLDEzLjI2NCwxNy4yODlaIiBzdHlsZT0iZmlsbDojYzVjMmZmIi8%2BPHBhdGggZD0iTTkuNzA4LDI0LjE2NGE0Ljg4NCw0Ljg4NCwwLDAsMS0yLjItLjUyNSwyLjE0OSwyLjE0OSwwLDAsMS0uODUxLS42MDgsMS4yMjMsMS4yMjMsMCwwLDEtLjIyMi0uNzEzYzAtLjEuMDA2LS4yMjEuMDE5LS4zNzIuMDcyLS44NzkuMTExLTEuNjA5LjExNy0yLjE3MWEyLjQ3NywyLjQ3NywwLDAsMSwuMS0uODYxLjQ4Ni40ODYsMCwwLDEsLjQwOS0uMzE0LjQ4LjQ4LDAsMCwxLC40NTEuMjQ3LDEuMjMxLDEuMjMxLDAsMCwxLC4xMzYuNTI5LDQuMTMyLDQuMTMyLDAsMCwwLC44MDYsMi4yMzEsMS45NSwxLjk1LDAsMCwwLDEuNTY1Ljk2LDEuNjU4LDEuNjU4LDAsMCwwLC45NzQtLjMxNiwyLjAzLDIuMDMsMCwwLDAsLjY4MS0uOSwzLjAxNCwzLjAxNCwwLDAsMCwuMjUzLTEuMTU3LDIuNjYyLDIuNjYyLDAsMCwwLS4zNzYtMS4zOTUsNi43LDYuNywwLDAsMC0xLjcxNC0xLjY2OSwxMy43NCwxMy43NCwwLDAsMS0xLjg0LTEuNTQ1LDYuMDQ2LDYuMDQ2LDAsMCwxLTEuMDg4LTEuNzY4LDUuMDU1LDUuMDU1LDAsMCwxLS4yODctMS43NjYsNC43NjQsNC43NjQsMCwwLDEsLjk4Ny0zLjA0MSwzLjE3OCwzLjE3OCwwLDAsMSwyLjYwOS0xLjI0LDMuNzMxLDMuNzMxLDAsMCwxLDEuNTI2LjI5LDMuNTI1LDMuNTI1LDAsMCwxLC45OTMuNzU0bC4xMi4xMjQuMDE3LjJjLjA0Mi40OTMuMDY2LjgzLjA2Ni45MjNMMTIuOTMsMTEuMWMtLjAxNS42LS4wMzIuOC0uMDQ0LjlsLS4wMzIuMjQ3LS4xNzEuMTA3YS41MzYuNTM2LDAsMCwxLS4yODcuMWwtLjAzNCwwLS4zNTYtLjEtLjA0OC0uM2E0LjM5Miw0LjM5MiwwLDAsMC0uNzUyLTIuMDc3LDEuNTI3LDEuNTI3LDAsMCwwLTEuMjI3LS42LDEuNDgxLDEuNDgxLDAsMCwwLTEuMjI2LjU5NSwyLjEwOCwyLjEwOCwwLDAsMC0uNDY4LDEuMzU2QTEuODQ4LDEuODQ4LDAsMCwwLDguNiwxMi4zNTFhOC44NDcsOC44NDcsMCwwLDAsMS45NzksMS43NDQsMTMuODcsMTMuODcsMCwwLDEsMS44NzcsMS42LDQuNTI2LDQuNTI2LDAsMCwxLC45MjQsMS41NTcsNS45MDcsNS45MDcsMCwwLDEsLjMxMywxLjk2OCw2LjYyMyw2LjYyMywwLDAsMS0uNDg1LDIuNTMxLDQuMDkyLDQuMDkyLDAsMCwxLTEuMzM0LDEuODEyQTMuNjA4LDMuNjA4LDAsMCwxLDkuNzA4LDI0LjE2NFpNNy4xMjIsMTguODQ3SDcuMWEuMjQuMjQsMCwwLDAtLjIuMTYsMi40LDIuNCwwLDAsMC0uMDg0Ljc3MWMtLjAwNS41NjQtLjA0NSwxLjMtLjExOCwyLjE4Ny0uMDEyLjE0My0uMDE4LjI2MS0uMDE4LjM1MmEuOTc1Ljk3NSwwLDAsMCwuMTc4LjU3LDEuOTgxLDEuOTgxLDAsMCwwLC43NTguNTI3LDQuNjMxLDQuNjMxLDAsMCwwLDIuMDg1LjUsMy4zNywzLjM3LDAsMCwwLDIuMDItLjU1OSwzLjg0NCwzLjg0NCwwLDAsMCwxLjI1LTEuNzA1LDYuMzcxLDYuMzcxLDAsMCwwLC40NjctMi40MzYsNS42Niw1LjY2LDAsMCwwLS4zLTEuODg0aDBhNC4yNyw0LjI3LDAsMCwwLS44NzMtMS40NzJBMTMuNjQyLDEzLjY0MiwwLDAsMCwxMC40MzIsMTQuM2E5LjcwOCw5LjcwOCwwLDAsMS0yLjAzOS0xLjgwNywyLjEsMi4xLDAsMCwxLS4zNTgtMS4xODMsMi4zNDcsMi4zNDcsMCwwLDEsLjUyMi0xLjUxMkExLjcxOCwxLjcxOCwwLDAsMSw5Ljk3OSw5LjEsMS43NjQsMS43NjQsMCwwLDEsMTEuNCw5LjhhNC42MjYsNC42MjYsMCwwLDEsLjgwNywyLjJsLjAyMi4xNDQuMTg0LjA1MmEuMzI3LjMyNywwLDAsMCwuMTM5LS4wNTZsLjA3Mi0uMDQ1LjAxNy0uMTI5Yy4wMTEtLjA4OC4wMjgtLjI3Ni4wNDItLjg3MWwuMDMyLTEuMDM1YzAtLjA2Mi0uMDE3LS4zMzQtLjA2NS0uOWwtLjAwOS0uMTExLS4wNTgtLjA2YTMuMjgzLDMuMjgzLDAsMCwwLS45MTgtLjcsMy40NzksMy40NzksMCwwLDAtMS40MjEtLjI2N0EyLjkzOCwyLjkzOCwwLDAsMCw3LjgyOCw5LjE2M2E0LjUxOCw0LjUxOCwwLDAsMC0uOTMzLDIuODg1LDQuODEsNC44MSwwLDAsMCwuMjcxLDEuNjc3LDUuODEyLDUuODEyLDAsMCwwLDEuMDQyLDEuNjkyLDEzLjYzNiwxMy42MzYsMCwwLDAsMS44LDEuNTEsNi45MTYsNi45MTYsMCwwLDEsMS43NzksMS43NDJBMi45LDIuOSwwLDAsMSwxMi4yLDIwLjE5YTMuMjU2LDMuMjU2LDAsMCwxLS4yNzIsMS4yNTMsMi4yNjYsMi4yNjYsMCwwLDEtLjc2NywxLjAxLDEuOSwxLjksMCwwLDEtMS4xMTkuMzYzLDIuMTgxLDIuMTgxLDAsMCwxLTEuNzY3LTEuMDYyLDQuMzczLDQuMzczLDAsMCwxLS44NTQtMi4zNjIsMSwxLDAsMCwwLS4xLS40MTlBLjIzNi4yMzYsMCwwLDAsNy4xMjIsMTguODQ3WiIgc3R5bGU9ImZpbGw6IzJjMDg3ZSIvPjxwYXRoIGQ9Ik0yNS40MDksOC40bC0uMTQ3LS4wNzNhMS41NjcsMS41NjcsMCwwLDAtLjY3MS0uMWwtMy42LjAzNy0uMDYuMjM0LS4wMzkuMjE2YS44MDguODA4LDAsMCwwLC4xMzYuNDM1bC4wNjMuMS42ODIuMTE5YTMuNjgyLDMuNjgyLDAsMCwxLC41NzEuMTIyLjUzNS41MzUsMCwwLDEsLjIzNy4xODYuMjc5LjI3OSwwLDAsMSwuMDQ2LjExMywyMC45MjksMjAuOTI5LDAsMCwxLS43NjIsMy43MzljLS4wNDYuMjQ2LS4wNzMuMzkxLS4wODEuNDI2TDIxLjIzNCwxNi4xcS0uNDIsMS41OTQtLjgzNCwzLjAwOWwtLjMsMS4wNDNjLS4zNjQtMS4zNDItLjczMS0yLjY1OS0xLjEwNi0zLjk2bC0xLjYzLTUuMzY3YTQuMzI2LDQuMzI2LDAsMCwxLS4yMzktMS4yNDJjLjAxNy0uMDE4LjEyMi0uMTEyLjUzOS0uMTY0YTQuODQ5LDQuODQ5LDAsMCwxLC43MS0uMDVoLjA2NGEuNDUuNDUsMCwwLDAsLjQ1Mi0uMjg4bC4wNTktLjQzLS4wMzItLjFhLjUyNS41MjUsMCwwLDAtLjE4NS0uMjY4bC0uMS0uMDM4Yy0uMTYxLS4wMDgtLjMyNi0uMDEzLS41LS4wMThzLS4zNDgtLjAwNi0uNTI5LS4wMDZjLS44OTQsMC0xLjUyNi4wMTItMS44ODMuMDM1LS4wOS4wMDctLjE3My4wMTEtLjI0OC4wMTFoLS4yNTZxLS42NDctLjAyMy0xLjI5NS0uMDIzaC0uMTY3bC0uMTUzLjUzNi4wMjYuMTI0YS43MjQuNzI0LDAsMCwwLC4yMDUuMzg2LDEuMzY2LDEuMzY2LDAsMCwwLC4zNjcuMTQ1LDMuMTMzLDMuMTMzLDAsMCwxLC44MjQuMzQxLDMuMDA5LDMuMDA5LDAsMCwxLC4zMTcuNzEybDIuNDM1LDcuOTNjLjQsMS4yOC45MTUsMy4xLDEuNTM4LDUuNDIybC4wNDkuMTgxLjEzMy4wNDFhLjg0OC44NDgsMCwwLDAsLjI1Mi4wNDQuNDc3LjQ3NywwLDAsMCwuMzA2LS4xNDZsLjA3Ny0uMDY5LjI2LTEuMTIyYy4yNjktMS4yLjczMy0yLjk0MSwxLjM4MS01LjE2N2wyLjA4LTcuNDA3YTEuNDQsMS40NCwwLDAsMSwuMjUyLS41MjIsMS42NTIsMS42NTIsMCwwLDEsLjcxMi0uMjA4LDEuNDMsMS40MywwLDAsMCwuNC0uMTMxbC4xLS4wNDkuMDQ2LS4xNGExLjI3OSwxLjI3OSwwLDAsMCwuMDY5LS40MzZaIiBzdHlsZT0iZmlsbDojYzVjMmZmIi8%2BPHBhdGggZD0iTTE5Ljc0OCwyNC4yMzJhLjk2Mi45NjIsMCwwLDEtLjI4OC0uMDQ5bC0uMi0uMDYyLS4wNjctLjI0N2MtLjYyLTIuMzA4LTEuMTM3LTQuMTMtMS41MzYtNS40MTdsLTIuNDM1LTcuOTMxYTMuMzUsMy4zNSwwLDAsMC0uMjkyLS42NjdoMGE0LjQ2Myw0LjQ2MywwLDAsMC0uNzY4LS4zLDEuMzgxLDEuMzgxLDAsMCwxLS40LS4xNjMuODQ1Ljg0NSwwLDAsMS0uMjUyLS40NmwtLjAzMy0uMTU0LjE4OC0uNjU2aC4yNjJjLjQ0LDAsLjg3Ny4wMDgsMS4zLjAyM2guMjUyYy4wNzIsMCwuMTUyLDAsLjIzOS0uMDExLjM2Ny0uMDI0LDEtLjAzNiwxLjg5My0uMDM2LjE4MywwLC4zNTksMCwuNTMyLjAwNnMuMzM5LjAxLjUuMDE4bC4wMzcuMDA4LjEzMi4wNTNhLjY0Ni42NDYsMCwwLDEsLjIzLjMzbC4wNDIuMTIzLS4wNzEuNDlhLjU3MS41NzEsMCwwLDEtLjU2Ny4zNjRoLS4wNjRhNC41OTQsNC41OTQsMCwwLDAtLjcuMDQ5LDEuMzc1LDEuMzc1LDAsMCwwLS40MjkuMSw0Ljg5Miw0Ljg5MiwwLDAsMCwuMjM0LDEuMTQybDEuNjI5LDUuMzY2Yy4zMjUsMS4xMjcuNjUsMi4yODYuOTksMy41MjlsLjE3My0uNjFjLjI3MS0uOTI4LjU1Mi0xLjkzOS44MzMtMy4wMDdsLjU0Ni0yLjE0NmMuMDA3LS4wMzEuMDM0LS4xNzQuMDc5LS40MThhMjEuMTY4LDIxLjE2OCwwLDAsMCwuNzYtMy43MTJoMHMtLjAwOS0uMDItLjAyOC0uMDUyYS40MTQuNDE0LDAsMCwwLS4xODQtLjEzOCw0LjE3Nyw0LjE3NywwLDAsMC0uNTM5LS4xMTJsLS43MzYtLjEyOC0uMDkyLS4xNDZhLjkyOS45MjksMCwwLDEtLjE1NS0uNWwuMDQxLS4yMzguMDg1LS4zMzUsMy43LS4wMzhhMS42NDMsMS42NDMsMCwwLDEsLjcyOS4xMTRsLjIxLjEuMDMyLjM4NWExLjQyNywxLjQyNywwLDAsMS0uMDc1LjQ4NWwtLjA2Mi4xOS0uMTQ5LjA3MmExLjU0NiwxLjU0NiwwLDAsMS0uNDQuMTQyLDEuOCwxLjgsMCwwLDAtLjY0OC4xOCwxLjUsMS41LDAsMCwwLS4yMTUuNDY4bC0yLjA3OCw3LjRjLS42NDgsMi4yMjktMS4xMTIsMy45NjQtMS4zNzksNS4xNmwtLjI2OSwxLjE2LS4xMDYuMUEuNTkzLjU5MywwLDAsMSwxOS43NDgsMjQuMjMyWm0tLjI4Mi0uMzA4LjA2Ny4wMjFhLjM2Ny4zNjcsMCwwLDAsLjQzOC0uMDc3bC4wNDctLjA0Mi4yNTEtMS4wODNjLjI2OS0xLjIuNzMzLTIuOTQxLDEuMzgzLTUuMTc0bDIuMDgtNy40MDZhMS42MzQsMS42MzQsMCwwLDEsLjI4Ni0uNTc4LDEuNzIzLDEuNzIzLDAsMCwxLC43NzYtLjI0MSwxLjMyMiwxLjMyMiwwLDAsMCwuMzcxLS4xMmwuMDUzLS4wMjYuMDI5LS4wODlhMS4xMzgsMS4xMzgsMCwwLDAsLjA2My0uNGwtLjAyLS4yMzUtLjA4NS0uMDQyYTEuNDczLDEuNDczLDAsMCwwLS42MTUtLjA4OGwtMy41MDYuMDM2LS4wNzMuMzQ4YS43LjcsMCwwLDAsLjExOC4zNDZsLjAzMy4wNTIuNjI3LjExYTMuOTg0LDMuOTg0LDAsMCwxLC42LjEzMi42NDUuNjQ1LDAsMCwxLC4yOTIuMjM1LjQuNCwwLDAsMSwuMDY0LjE3OCwyMy4wNjQsMjMuMDY0LDAsMCwxLS43NjYsMy43N2MtLjA0NS4yNDEtLjA3Mi4zODctLjA4LjQyM2wtLjU0NywyLjE1Yy0uMjgyLDEuMDcxLS41NjMsMi4wODUtLjgzNSwzLjAxNEwyMC4xLDIwLjYxNmwtLjExOC0uNDM1Yy0uMzgyLTEuNDA5LS43NDQtMi43LTEuMTA1LTMuOTU4bC0xLjYyOS01LjM2NUE0LjU4MSw0LjU4MSwwLDAsMSwxNyw5LjU3N1Y5LjUzbC4wMzItLjAzNWMuMDQ5LS4wNTMuMTkzLS4xNS42MTUtLjJhNS4zMzMsNS4zMzMsMCwwLDEsLjczMS0uMDUxaC4wNTlhLjMyNi4zMjYsMCwwLDAsLjMzMS0uMmwuMDUyLS4zODNMMTguOCw4LjU5M2EuNDIzLjQyMywwLDAsMC0uMTI3LS4ybC0uMDY3LS4wMjRjLS4xNTMtLjAwNy0uMzEyLS4wMTMtLjQ3Ni0uMDE3cy0uMzQ2LS4wMDYtLjUyNi0uMDA2Yy0uODg0LDAtMS41MTUuMDEyLTEuODc1LjAzNS0uMDkyLjAwNy0uMTc4LjAxMi0uMjU2LjAxMmgtLjI1NmMtLjQyNC0uMDE1LS44NTgtLjAyMy0xLjI5NS0uMDIzaC0uMDczbC0uMTE5LjQxNi4wMi4wOTNhLjYuNiwwLDAsMCwuMTcuMzIyLDIuMzg5LDIuMzg5LDAsMCwwLC4zMTkuMTE1LDMuMjM0LDMuMjM0LDAsMCwxLC44NjUuMzY0LDIuNzQ1LDIuNzQ1LDAsMCwxLC4zNTQuNzY0TDE3LjksMTguMzg0Yy40LDEuMjkuOTE5LDMuMTE2LDEuNTQsNS40MjdaIiBzdHlsZT0iZmlsbDojMmMwODdlIi8%2BPHBhdGggZD0iTTI1LjYyNSwyMy45NjFjLTQuNDYyLDYuNC0xOC4xNDgsNS44NTMtMjAuNzMyLTEuNTJIMkM0LjA2MiwzMi4wNDMsMjEuNDM5LDMyLjQzOSwyNS42MjUsMjMuOTYxWiIgc3R5bGU9ImZpbGw6dXJsKCNsaW5lYXItZ3JhZGllbnQpIi8%2BPHBhdGggZD0iTTMwLDkuNTU5Yy0yLjA2Mi05LjYtMTkuNDM5LTEwLTIzLjYyNS0xLjUyLDQuNDYyLTYuNCwxOC4xNDgtNS44NTMsMjAuNzMyLDEuNTJaIiBzdHlsZT0iZmlsbDp1cmwoI2xpbmVhci1ncmFkaWVudC0yKSIvPjwvc3ZnPg%3D%3D) <!-- Version Control (VCS) !-->
+\* [GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) <!-- Build & CI/CD: !-->
+\* ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) <!-- Shell: !-->
+\* ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) <!-- Documentation: !-->
+\* ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Doxygen](https://img.shields.io/badge/doxygen-2C4AA8?style=for-the-badge&logo=doxygen&logoColor=white) <!-- Project Management: !--> <!-- Laboratory: !--> <!-- Methodologies: !--> <!-- IDEs & Editors: !-->
+\* ![IntelliJ CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![IntelliJ PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white)
+![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Autodesk AutoCAD](https://img.shields.io/badge/Autodesk%20AutoCAD-%23E51050?style=for-the-badge&logo=autocad)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) <!-- AI Tools: !--> <!-- Office, Remote, & Other: !-->
+\* ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white) <!-- Platforms: !-->
+\* ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+#### Details
+
+<details>
+
+*Programming & Debugging:* C++ (C++11 — C++23+), including Arduino & PlatformIO, C89 (ANSI)/90/+, Python 3 scripting & prototyping (basics), including Easy SCPI, logging, ODrive, PySimpleGui, Pytest PyVISA, & Requests, Java 8/11/17/21/+, including Javadoc & WPILib 2019 — 2022, SystemVerilog, web basics, planning to learn Rust;
+*Version Control (VCS):* git, GitHub, Gitlab;
+*Build & CI/CD*: Make / GNU Make / Makefile, CMake, GitHub Actions, Dependabot;
+*Shell:* Standard Commands for
+Programmable Instruments (SCPI), basics of various shell languages, such as BASH, Windows Command Prompt (CMD), Powershell, SSH, PuTTY;
+
+*Documentation & Markup:* Markdown, including CommonMark, GitHub Flavored Markdown (GFM), & PHP Markdown Extra, Doxygen, Javadoc, Draw.io / Diagrams.net, WireViz, Atlassian Confluence, some experience with HTML, UML class modeling/diagramming & TravisCI;
+*Configuration:* Some experience with YAML, JSON, some experience (learning) Docker Compose
+
+*Project Management:* Atlassian products including Jira & Trello, Kanban, scrum
+
+*Areas:* GUIs, Instrument control (VISA) & test automation, documentation, logging, robotics, testing, FPGAs, processor
+architecture, Hobbyist Embedded (Arduino);
+
+*Laboratory:* Test and measurement equipment in including electronic loads, function generators, DC power supplies, digital
+multimeters (DMMs), source meters and oscilloscopes from vendors such as Agilent Technologies, Extech, Keysight, Keithley, Mastech, PASCO
+Scientific, Rigol, Tektronix, and Tektronix, as well as familiarity with various COTS OEM/vendors, Computers, including
+maintenance, documenting, assisting, hardware & software configuration;
+
+*Methodologies:* object-oriented programming (OOP); Design: UML;
+
+*IDEs & Editors:* Microsoft Visual Studio Code (VSCode), JetBrains products including IntelliJ IDEA, PyCharm, & CLion, AMD (Xilinx)
+Vivado, Eclipse, Notepad++, Nano, Vi/Vim/Neovim (basics), PlatformIO, VSCode Liveshare, Jetbrains Code with Me, Some experience with Android Studio, Replit; SonarLint
+
+*AI Tools:* GitHub Copilot (OpenAI GPT 4 — 5+), Microsoft Bing AI / Copilot, Google Assistant, Google Gemini
+
+> When using AI tools, one must always verify the output and dedicate time to keeping their traditional skills sharp
+
+*Office, Remote, & Other:* Adobe Acrobat / Adobe Acrobat Reader DC, Apache Open Office, Google GSuite / Workspace (GMail, Drive, Docs, Sheets, Slides, Draw, Meet),
+Microsoft Office (Outlook, OneDrive, Word, PowerPoint, Visio, OneNote, Teams, Skype), Polaris Office, Libre Office, Next Cloud, CAD software basics, including Autodesk AutoCAD, Fusion360 & Revit, Discord, Slack, Signal, Zoom, Microsoft Edge & Internet Explorer, Mozilla Firefox, Google Chrome, Tor, Trello, Bing, DuckDuckGo, Google, want to learn Blender
+
+*Platforms:* Windows 7/8/10/11+, Posix / Unix / Linux, including Windows Subsystem for Linux (WSL), Debian Linux, Ubuntu Linux, & Raspbian / Raspberry Pi OS, Android 4.2+, some experience with Apple MacOS / OSX, & MSDOS;
+
+*Additional Technologies I'm learning*: Cloudflare, Github Pages, Jellyfin,Proxmox, Vercel, Wix, Weebly
+
+*Selected COTS Parts OEMs I'm familiar with:*
+Adafruit Industries, Arduino (Uno Rev3), Cross the Road Electronics (CTRE), Digilent (Basys 3 Artix-7 FPGA), Espressif (ESP32 Original, S3, C3, C5, C6, C61), National Instruments (roboRIO), Raspberry Pi (3b), REV Robotics, VEX Robotics;
+
+*Selected Equipment OEMs I'm familiar with:* AMD, Agilent Technologies, Inc., Asus, Dell, HP, Keysight Technologies, Netgear, nVIDIA, RIGOL Technologies, Samsung, Siglent Technologies
+
+*Selected Vendors I'm familiar with:* AndyMark, Inc., DigiKey Electronics,Grainger;
+
+</details>
 
 <br>
 <br>
