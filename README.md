@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <img height=225 align="center"
     src="https://github-readme-stats-omega-drab-90.vercel.app/api?username=BobSaidHi&show=prs_merged_percentage&show_icons=true&theme=transparent"
     alt="BobSaidHi's GitHub Stats" />
-  <img height=225 align="center"
+  <img height=250 align="center"
     src="https://github-readme-stats-omega-drab-90.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing,VHDL,TCL,Verilog,Perl&size_weight=0.75&count_weight=0.25&langs_count=8&layout=compact"
     alt="BobSaidHi's Most Used Languages" />
 </div>
