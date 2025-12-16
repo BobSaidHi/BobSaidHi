@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- Not sure if I like the trophies thing or not -->
+
+[Profile Trophies Link](https://github-profile-trophy.vercel.app/?username=BobSaidHi) by [Ryota Sakamoto](https://github.com/ryo-ma/github-profile-trophy)
+
 ### Stats
 
 <!-- Public Instance
@@ -30,10 +34,10 @@ Here are some ideas to get you started:
 <!-- Private Instance w/ better formatting -->
 <div>
   <img height=225 align="center"
-    src="https://github-readme-stats-omega-drab-90.vercel.app/api?username=BobSaidHi&show_icons=true&theme=transparent"
+    src="https://github-readme-stats-omega-drab-90.vercel.app/api?username=BobSaidHi&show=prs_merged_percentage&show_icons=true&theme=transparent"
     alt="BobSaidHi's GitHub Stats" />
   <img height=225 align="center"
-    src="https://github-readme-stats-omega-drab-90.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing,C,VHDL&size_weight=0.75&count_weight=0.25&langs_count=5"
+    src="https://github-readme-stats-omega-drab-90.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing,VHDL,TCL,Verilog,Perl&size_weight=0.75&count_weight=0.25&langs_count=8&layout=compact"
     alt="BobSaidHi's Most Used Languages" />
 </div>
 <!-- End HTML -->
@@ -45,7 +49,7 @@ Here are some ideas to get you started:
 
 | <center>Default Weighting<br>(100% by byte count, 0% by repository count)</center> | <center>Recommended Weighting<br>(50% by byte count, 50% by repository count)</center> |
 | --- | --- |
-| <center><img height=450 align="center" src="https://github-readme-stats-omega-drab-90.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing,VHDL,Perl,Makefile&size_weight=1&count_weight=0.5&langs_count=9" alt="BobSaidHi's Most Used Languages" /></center> | <center><img height=450 align="center" src="https://github-readme-stats-omega-drab-90.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing,VHDL,Perl,Makefile&size_weight=0.5&count_weight=0.5&langs_count=10" alt="BobSaidHi's Most Used Languages" /></center> |
+| <center><img height=250 align="center" src="https://github-readme-stats-omega-drab-90.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing,VHDL,Perl&size_weight=1&count_weight=0.5&langs_count=10&layout=compact&" alt="BobSaidHi's Most Used Languages" /></center> | <center><img height=250 align="center" src="https://github-readme-stats-omega-drab-90.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing,VHDL,Perl&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact&" alt="BobSaidHi's Most Used Languages" /></center> |
 
 </details>
 
@@ -69,6 +73,40 @@ Here are some ideas to get you started:
 | **TOTALS**   | **51**  | **439**  | **100% / 100%** |
 
 </details>
+
+<!-- Begin HTML -->
+<details>
+<summary>Languages Used in Most Projects over All Time (Since Winter 2024-25) (Powered by wakatime.com)</summary>
+
+<!-- PNG version: https://wakatime.com/share/@BobSaidHi/ce6be866-4c3b-4e31-8919-91dc5485cd2e.png -->
+<!-- SVG version: https://wakatime.com/share/@BobSaidHi/d5403ac7-ec5c-4a8e-9c99-2ab6ed87d7f0.svg -->
+<!-- SVG version (No title): https://wakatime.com/share/@BobSaidHi/9b40d0e1-f14e-4c90-9694-0411dc0c806d.svg -->
+
+
+<!-- Private Instance w/ better formatting -->
+<div>
+  <img height=500 align="center"
+    src="https://wakatime.com/share/@BobSaidHi/9b40d0e1-f14e-4c90-9694-0411dc0c806d.svg"
+    alt="Languages Used in Most Projects over All Time (Since Winter 2024-25) (Powered by wakatime.com)" />
+</div>
+
+</details>
+
+<details>
+<summary>Editors Used in Most Projects over All Time (Since Winter 2024-25) (Powered by wakatime.com)</summary>
+
+<!-- SVG version (No title): https://wakatime.com/share/@BobSaidHi/9b40d0e1-f14e-4c90-9694-0411dc0c806d.svg -->
+
+
+<!-- Private Instance w/ better formatting -->
+<div>
+  <img height=500 align="center"
+    src="https://wakatime.com/share/@BobSaidHi/5d801706-f083-4aea-b63c-5755058e2856.svg"
+    alt="Editors Used in Most Projects over All Time (Since Winter 2024-25) (Powered by wakatime.com)" />
+</div>
+
+</details>
+<!-- End HTML -->
 
 ### Technologies
 
@@ -177,5 +215,5 @@ The inclusion of my some of the technologies I am familiar with was inspired by 
 <br>
 <br>
 
-*Updated Fall 2026*
+*Updated Fall 2025*
 

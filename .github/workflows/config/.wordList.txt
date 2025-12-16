@@ -51,6 +51,7 @@ Trello
 Uno
 Verilog
 Vivado
+wakatime
 WireViz
 WorldVectorLogo
 WPILib
