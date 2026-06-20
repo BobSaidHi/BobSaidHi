@@ -37,19 +37,20 @@ Here are some ideas to get you started:
     src="https://github-readme-stats-omega-drab-90.vercel.app/api?username=BobSaidHi&show=prs_merged_percentage&show_icons=true&theme=transparent"
     alt="BobSaidHi's GitHub Stats" />
   <img height=200 align="center"
-    src="https://github-readme-stats-omega-drab-90.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing,VHDL,TCL,Verilog,Perl&size_weight=0.75&count_weight=0.25&langs_count=8&layout=compact"
+    src="https://github-readme-stats-omega-drab-90.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing,VHDL,TCL,Verilog,Perl,Nix,Linker%20Script&size_weight=0&count_weight=1&langs_count=10&layout=compact"
     alt="BobSaidHi's Most Used Languages" />
 </div>
 <!-- End HTML -->
 
-> *Language Statistics Method/ Weights:* 75% by byte count, 25% by repository count, excluding forked repositories, and contributions to other users/organizations.  I also manually excluded some of languages that I'm not very familiar with and must have bee auto-generated.  I feel this weighting portrays my language usage statistics more accurately.
+> *Language Statistics Method/ Weights:* 0% by byte count, 100% by repository count, excluding forked repositories, and contributions to other users/organizations.  I also manually excluded some of languages that I'm not very familiar with and must have bee auto-generated.  I feel this weighting portrays my language usage statistics more accurately.
 <!-- Apparently, details is an actual HTML element, but GitHub officially supports mixing it with Markdown -->
 <details>
 <summary>Alternative Weightings</summary>
 
-| <center>Default Weighting<br>(100% by byte count, 0% by repository count)</center> | <center>Recommended Weighting<br>(50% by byte count, 50% by repository count)</center> |
-| --- | --- |
-| <center><img height=250 align="center" src="https://github-readme-stats-omega-drab-90.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing,VHDL,Perl&size_weight=1&count_weight=0.5&langs_count=10&layout=compact&" alt="BobSaidHi's Most Used Languages" /></center> | <center><img height=250 align="center" src="https://github-readme-stats-omega-drab-90.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing,VHDL,Perl&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact&" alt="BobSaidHi's Most Used Languages" /></center> |
+
+| <center>Previous Weighting<br>(75% by byte count, 25% by repository count)</center> | <center>Default Weighting<br>(100% by byte count, 0% by repository count)</center> | <center>Recommended Weighting<br>(50% by byte count, 50% by repository count)</center> |
+| --- | --- | --- |
+| <center><img height=250 align="center" src="[https://github-readme-stats-omega-drab-90.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing,VHDL,Perl&size_weight=1&count_weight=0.5&langs_count=10&layout=compact&](https://github-readme-stats-omega-drab-90.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing,VHDL,TCL,Verilog,Perl&size_weight=0.75&count_weight=0.25&langs_count=8&layout=compact)" alt="BobSaidHi's Most Used Languages 2" /></center>  <center><img height=250 align="center" src="https://github-readme-stats-omega-drab-90.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing,VHDL,Perl&size_weight=1&count_weight=0.5&langs_count=10&layout=compact&" alt="BobSaidHi's Most Used Languages 3" /></center> | <center><img height=250 align="center" src="https://github-readme-stats-omega-drab-90.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing,VHDL,Perl&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact&" alt="BobSaidHi's Most Used Languages 4" /></center> |
 
 </details>
 
