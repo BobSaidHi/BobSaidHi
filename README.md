@@ -216,5 +216,5 @@ The inclusion of my some of the technologies I am familiar with was inspired by 
 <br>
 <br>
 
-*Updated Fall 2025*
+*Updated Spring 2026*
 
