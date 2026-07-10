@@ -194,7 +194,7 @@ Adafruit Industries, Arduino (Uno Rev3), Cross the Road Electronics (CTRE), Digi
 
 ### Special Thanks
 
-Thanks to [@Kaweees](https://github.com/Kaweees/Kaweees/blob/master/README.md) for the example of how setup the [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats#readme) cards.
+Thanks to [@Kaweees](https://github.com/Kaweees/Kaweees/blob/master/README.md) for the example of how setup the [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats#readme), [the orginal author](https://github.com/anuraghazra), and [the new maintainers](https://github.com/stats-organization).
 
 The inclusion of my some of the technologies I am familiar with was inspired by an adapted from [@samarjitsahoo](https://github.com/samarjitsahoo#-my-tech-stack).  Most icons were obtained from [WorldVectorLogo](https://worldvectorlogo.com), but may be copyrighted or trademarked and used under fair use.  The WPILib Icon is based off of [their official generic logo](https://github.com/wpilibsuite/branding/blob/main/wpilib-generic.svg) but rearranged into their secondary (square / profile) format per [their guidelines](https://github.com/wpilibsuite/branding/blob/main/WPILib-Logo-Branding-Guidelines-2024.pdf)  (Likely copyrighted / fair use).  I obtained the AMD / Xilinx Vivado Icon from [Flathub](https://flathub.org/apps/com.github.corna.Vivado) (Likely copyrighted / fair use).  I obtained the Windows Command Prompt from [Wikipedia](https://en.wikipedia.org/wiki/File:Command_prompt_icon_(windows).png) (Copyrighted / fair use). I obtained the IVI Foundation logo from their website, [ivifoundation.org](https://www.ivifoundation.org/) (Likely copyrighted / fair use).
 
@@ -216,5 +216,5 @@ The inclusion of my some of the technologies I am familiar with was inspired by 
 <br>
 <br>
 
-*Updated Spring 2026*
+*Updated Summer 2026*
 
