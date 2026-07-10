@@ -27,22 +27,22 @@ Here are some ideas to get you started:
 
 <!-- Private Instance, slightly more accurate, especially for the main stats card -->
 <!-- This alignment is still less than ideal though
-![BobSaidHi's GitHub stats](https://github-stats-extended-frontend-orcin.vercel.app/api?username=BobSaidHi&show_icons=true&theme=transparent) ![Top Langs](https://github-stats-extended-frontend-orcin.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing)
+![BobSaidHi's GitHub stats](https://github-stats-extended-frontend-orcin.vercel.app/api?username=BobSaidHi&show_icons=true&theme=transparent) ![Top Langs]([https://github-stats-extended-frontend-orcin.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing](https://github-stats-extended-frontend-orcin.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing,VHDL,Perl,Javascript&size_weight=1&count_weight=0.5&langs_count=10&layout=compact&role=OWNER,COLLABORATOR))
 -->
 
 <!-- Begin HTML -->
 <!-- Private Instance w/ better formatting -->
 <div>
   <img height=200 align="center"
-    src="https://github-stats-extended-frontend-orcin.vercel.app/api?username=BobSaidHi&show=prs_merged_percentage&show_icons=true&theme=transparent"
+    src="https://github-stats-extended-frontend-orcin.vercel.app/api?username=BobSaidHi&show=prs_merged_percentage,&show_icons=true&theme=transparent&role=OWNER,ORGANIZATION_MEMBER"
     alt="BobSaidHi's GitHub Stats" />
   <img height=200 align="center"
-    src="https://github-stats-extended-frontend-orcin.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing,VHDL,TCL,Verilog,Perl,Nix,Linker%20Script&size_weight=0&count_weight=1&langs_count=10&layout=compact"
+    src="https://github-stats-extended-frontend-orcin.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing,JavaScript&size_weight=0.5&count_weight=0.5&role=OWNER,COLLABORATOR"
     alt="BobSaidHi's Most Used Languages" />
 </div>
 <!-- End HTML -->
 
-> *Language Statistics Method/ Weights:* 0% by byte count, 100% by repository count, excluding forked repositories, and contributions to other users/organizations.  I also manually excluded some of languages that I'm not very familiar with and must have bee auto-generated.  I feel this weighting portrays my language usage statistics more accurately.
+> *Language Statistics Method/ Weights:* 50% by byte count, 50% by repository count, excluding forked repositories, but including repostires I've contributed too.  I also manually excluded some of languages that I'm not very familiar with and must have bee auto-generated.  I feel this weighting portrays my language usage statistics more accurately.
 <!-- Apparently, details is an actual HTML element, but GitHub officially supports mixing it with Markdown -->
 <details>
 <summary>Alternative Weightings</summary>
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 | <center>Previous Weighting<br>(75% by byte count, 25% by repository count)</center> | <center>Default Weighting<br>(100% by byte count, 0% by repository count)</center> | <center>Recommended Weighting<br>(50% by byte count, 50% by repository count)</center> |
 | --- | --- | --- |
-| <center><img height=250 align="center" src="https://github-stats-extended-frontend-orcin.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing,VHDL,Perl&size_weight=1&count_weight=0.5&langs_count=10&layout=compact&" alt="BobSaidHi's Most Used Languages 2" /></center> | <center><img height=250 align="center" src="https://github-stats-extended-frontend-orcin.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing,VHDL,Perl&size_weight=1&count_weight=0.5&langs_count=10&layout=compact&" alt="BobSaidHi's Most Used Languages 3" /></center> | <center><img height=250 align="center" src="https://github-stats-extended-frontend-orcin.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing,VHDL,Perl&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact&" alt="BobSaidHi's Most Used Languages 4" /></center> |
+| <center><img height=250 align="center" src="https://github-stats-extended-frontend-orcin.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing,VHDL,Perl,JavaScript&size_weight=0.75&count_weight=0.25&langs_count=10&layout=compact&role=OWNER,COLLABORATOR" alt="BobSaidHi's Most Used Languages 2" /></center> | <center><img height=250 align="center" src="https://github-stats-extended-frontend-orcin.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing,VHDL,Perl,JavaScript&size_weight=1.0&count_weight=0.0&langs_count=10&layout=compact&role=OWNER,COLLABORATOR" alt="BobSaidHi's Most Used Languages 3" /></center> | <center><img height=250 align="center" src="https://github-stats-extended-frontend-orcin.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing,VHDL,Perl,JavaScript&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact&role=OWNER,COLLABORATOR" alt="BobSaidHi's Most Used Languages 4" /></center> |
 
 </details>
 
