@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 </div>
 <!-- End HTML -->
 
-> *Language Statistics Method/ Weights:* 50% by byte count, 50% by repository count, excluding forked repositories, but including repostires I've contributed too.  I also manually excluded some of languages that I'm not very familiar with and must have bee auto-generated.  I feel this weighting portrays my language usage statistics more accurately.
+> *Statistics Configuration* 50% by byte count, 50% by repository count including repositories I've contributed too but excluding commonly auto-generated languages.
 <!-- Apparently, details is an actual HTML element, but GitHub officially supports mixing it with Markdown -->
 <details>
 <summary>Alternative Weightings</summary>
