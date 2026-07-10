@@ -147,29 +147,26 @@ Here are some ideas to get you started:
 
 <details>
 
-*Programming & Debugging:* C++ (C++11 — C++23+), including Arduino & PlatformIO, C89 (ANSI)/90/+, Python 3 scripting & prototyping (basics), including Easy SCPI, logging, ODrive, PySimpleGui, Pytest PyVISA, & Requests, Java 8/11/17/21/+, including Javadoc & WPILib 2019 — 2022, SystemVerilog, web basics, planning to learn Rust;
+*Programming & Debugging:* C++ (C++11 — C++23+), including Arduino & PlatformIO, C89 (ANSI)/90/+, Python 3 scripting & prototyping (basics), including Easy SCPI, logging, & PyVISA, Java (LTS releases 8 — 25+), including Javadoc & WPILib 2019 — 2022, SystemVerilog, planning to learn Rust;
 *Version Control (VCS):* git, GitHub, Gitlab;
 *Build & CI/CD*: Make / GNU Make / Makefile, CMake, GitHub Actions, Dependabot;
 *Shell:* Standard Commands for
-Programmable Instruments (SCPI), basics of various shell languages, such as BASH, Windows Command Prompt (CMD), Powershell, SSH, PuTTY;
+Programmable Instruments (SCPI), basics of various shell languages such as BASH, Windows Command Prompt (CMD), & Powershell;
 
-*Documentation & Markup:* Markdown, including CommonMark, GitHub Flavored Markdown (GFM), & PHP Markdown Extra, Doxygen, Javadoc, Draw.io / Diagrams.net, WireViz, Atlassian Confluence, some experience with HTML, UML class modeling/diagramming & TravisCI;
-*Configuration:* Some experience with YAML, JSON, some experience (learning) Docker Compose
+*Documentation & Markup:* various Markdown flavors, Doxygen, Javadoc, Draw.io / Diagrams.net, WireViz, Atlassian Confluence, some experience with HTML, UML class modeling/diagramming;
+*Configuration:* Some experience with YAML, JSON, some experience / learning Docker Compose
 
 *Project Management:* Atlassian products including Jira & Trello, Kanban, scrum
 
 *Areas:* GUIs, Instrument control (VISA) & test automation, documentation, logging, robotics, testing, FPGAs, processor
 architecture, Hobbyist Embedded (Arduino);
 
-*Laboratory:* Test and measurement equipment in including electronic loads, function generators, DC power supplies, digital
-multimeters (DMMs), source meters and oscilloscopes from vendors such as Agilent Technologies, Extech, Keysight, Keithley, Mastech, PASCO
-Scientific, Rigol, Tektronix, and Tektronix, as well as familiarity with various COTS OEM/vendors, Computers, including
-maintenance, documenting, assisting, hardware & software configuration;
+*Laboratory:* Test and measurement equipment, including maintenance, documentation, assistance, hardware & software configuration;
 
 *Methodologies:* object-oriented programming (OOP); Design: UML;
 
 *IDEs & Editors:* Microsoft Visual Studio Code (VSCode), JetBrains products including IntelliJ IDEA, PyCharm, & CLion, AMD (Xilinx)
-Vivado, Eclipse, Notepad++, Nano, Vi/Vim/Neovim (basics), PlatformIO, VSCode Liveshare, Jetbrains Code with Me, Some experience with Android Studio, Replit; SonarLint
+Vivado, Eclipse, Notepad++, Nano, Vi/Vim/Neovim (basics), PlatformIO, VSCode Liveshare, Jetbrains Code with Me; SonarLint
 
 *AI Tools:* GitHub Copilot (OpenAI GPT 4 — 5+), Microsoft Bing AI / Copilot, Google Assistant, Google Gemini
 
@@ -178,16 +175,16 @@ Vivado, Eclipse, Notepad++, Nano, Vi/Vim/Neovim (basics), PlatformIO, VSCode Liv
 *Office, Remote, & Other:* Adobe Acrobat / Adobe Acrobat Reader DC, Apache Open Office, Google GSuite / Workspace (GMail, Drive, Docs, Sheets, Slides, Draw, Meet),
 Microsoft Office (Outlook, OneDrive, Word, PowerPoint, Visio, OneNote, Teams, Skype), Polaris Office, Libre Office, Next Cloud, CAD software basics, including Autodesk AutoCAD, Fusion360 & Revit, Discord, Slack, Signal, Zoom, Microsoft Edge & Internet Explorer, Mozilla Firefox, Google Chrome, Tor, Trello, Bing, DuckDuckGo, Google, want to learn Blender
 
-*Platforms:* Windows 7/8/10/11+, Posix / Unix / Linux, including Windows Subsystem for Linux (WSL), Debian Linux, Ubuntu Linux, & Raspbian / Raspberry Pi OS, Android 4.2+, some experience with Apple MacOS / OSX, & MSDOS;
+*Platforms:* Windows 7 — 11+, Posix / Unix / Linux, including Windows Subsystem for Linux (WSL), Debian Linux, Ubuntu Linux, & Raspbian / Raspberry Pi OS
 
-*Additional Technologies I'm learning*: Cloudflare, Github Pages, Jellyfin,Proxmox, Vercel, Wix, Weebly
+*Additional Technologies I'm learning*: Cloudflare, Github Pages, Jellyfin, Proxmox, Vercel, Wix, Weebly
 
 *Selected COTS Parts OEMs I'm familiar with:*
-Adafruit Industries, Arduino (Uno Rev3), Cross the Road Electronics (CTRE), Digilent (Basys 3 Artix-7 FPGA), Espressif (ESP32 Original, S3, C3, C5, C6, C61), National Instruments (roboRIO), Raspberry Pi (3b), REV Robotics, VEX Robotics;
+Adafruit Industries, Cross the Road Electronics (CTRE), Digilent (Basys 3 Artix-7 FPGA), Espressif (ESP32: Original, S3, C3, C5, C6, C61), National Instruments (roboRIO), Raspberry Pi (3b), REV Robotics, VEX Robotics;
 
-*Selected Equipment OEMs I'm familiar with:* AMD, Agilent Technologies, Inc., Asus, Dell, HP, Keysight Technologies, Netgear, nVIDIA, RIGOL Technologies, Samsung, Siglent Technologies
+*Selected Equipment OEMs I'm familiar with:* AMD, Agilent Technologies, Inc., Asus, Dell, HP, Keysight Technologies, Lenovo, nVIDIA, RIGOL Technologies, Samsung, Siglent Technologies
 
-*Selected Vendors I'm familiar with:* AndyMark, Inc., DigiKey Electronics,Grainger;
+*Selected Vendors I'm familiar with:* AndyMark, Inc., DigiKey Electronics, Grainger;
 
 </details>
 
