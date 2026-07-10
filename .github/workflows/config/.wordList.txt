@@ -55,8 +55,10 @@ Kanban
 Kaweees
 Keithley
 Keysight
+Lenovo
 Libre
 Liveshare
+LTS
 MacOS
 Makefile
 Mastech
