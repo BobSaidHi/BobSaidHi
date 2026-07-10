@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 <!-- Not sure if I like the trophies thing or not -->
 
+<!--
 [Profile Trophies Link](https://github-profile-trophy.vercel.app/?username=BobSaidHi) by [Ryota Sakamoto](https://github.com/ryo-ma/github-profile-trophy)
+-->
 
 ### Stats
 
