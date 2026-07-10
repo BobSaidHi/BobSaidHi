@@ -22,22 +22,22 @@ Here are some ideas to get you started:
 ### Stats
 
 <!-- Public Instance
-![BobSaidHi's GitHub stats](https://github-readme-stats.vercel.app/api?username=BobSaidHi&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing)
+![BobSaidHi's GitHub stats](https://github-stats-extended.vercel.app/api?username=BobSaidHi&show_icons=true&theme=transparent) ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing)
 -->
 
 <!-- Private Instance, slightly more accurate, especially for the main stats card -->
 <!-- This alignment is still less than ideal though
-![BobSaidHi's GitHub stats](https://github-readme-stats-omega-drab-90.vercel.app/api?username=BobSaidHi&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats-omega-drab-90.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing)
+![BobSaidHi's GitHub stats](https://github-stats-extended-frontend-orcin.vercel.app/api?username=BobSaidHi&show_icons=true&theme=transparent) ![Top Langs](https://github-stats-extended-frontend-orcin.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing)
 -->
 
 <!-- Begin HTML -->
 <!-- Private Instance w/ better formatting -->
 <div>
   <img height=200 align="center"
-    src="https://github-readme-stats-omega-drab-90.vercel.app/api?username=BobSaidHi&show=prs_merged_percentage&show_icons=true&theme=transparent"
+    src="https://github-stats-extended-frontend-orcin.vercel.app/api?username=BobSaidHi&show=prs_merged_percentage&show_icons=true&theme=transparent"
     alt="BobSaidHi's GitHub Stats" />
   <img height=200 align="center"
-    src="https://github-readme-stats-omega-drab-90.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing,VHDL,TCL,Verilog,Perl,Nix,Linker%20Script&size_weight=0&count_weight=1&langs_count=10&layout=compact"
+    src="https://github-stats-extended-frontend-orcin.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing,VHDL,TCL,Verilog,Perl,Nix,Linker%20Script&size_weight=0&count_weight=1&langs_count=10&layout=compact"
     alt="BobSaidHi's Most Used Languages" />
 </div>
 <!-- End HTML -->
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 | <center>Previous Weighting<br>(75% by byte count, 25% by repository count)</center> | <center>Default Weighting<br>(100% by byte count, 0% by repository count)</center> | <center>Recommended Weighting<br>(50% by byte count, 50% by repository count)</center> |
 | --- | --- | --- |
-| <center><img height=250 align="center" src="https://github-readme-stats-omega-drab-90.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing,VHDL,Perl&size_weight=1&count_weight=0.5&langs_count=10&layout=compact&" alt="BobSaidHi's Most Used Languages 2" /></center> | <center><img height=250 align="center" src="https://github-readme-stats-omega-drab-90.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing,VHDL,Perl&size_weight=1&count_weight=0.5&langs_count=10&layout=compact&" alt="BobSaidHi's Most Used Languages 3" /></center> | <center><img height=250 align="center" src="https://github-readme-stats-omega-drab-90.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing,VHDL,Perl&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact&" alt="BobSaidHi's Most Used Languages 4" /></center> |
+| <center><img height=250 align="center" src="https://github-stats-extended-frontend-orcin.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing,VHDL,Perl&size_weight=1&count_weight=0.5&langs_count=10&layout=compact&" alt="BobSaidHi's Most Used Languages 2" /></center> | <center><img height=250 align="center" src="https://github-stats-extended-frontend-orcin.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing,VHDL,Perl&size_weight=1&count_weight=0.5&langs_count=10&layout=compact&" alt="BobSaidHi's Most Used Languages 3" /></center> | <center><img height=250 align="center" src="https://github-stats-extended-frontend-orcin.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing,VHDL,Perl&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact&" alt="BobSaidHi's Most Used Languages 4" /></center> |
 
 </details>
 
