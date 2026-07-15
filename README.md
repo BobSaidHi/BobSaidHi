@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <!-- Private Instance, slightly more accurate, especially for the main stats card -->
 <!-- This alignment is still less than ideal though
-![BobSaidHi's GitHub stats](https://github-stats-extended-frontend-orcin.vercel.app/api?username=BobSaidHi&show_icons=true&theme=transparent) ![Top Langs](https://github-stats-extended-frontend-orcin.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing,VHDL,Perl,Javascript&size_weight=1&count_weight=0.5&langs_count=10&layout=compact&role=OWNER,COLLABORATOR)
+![BobSaidHi's GitHub stats](https://github-stats-extended-frontend-orcin.vercel.app/api?username=BobSaidHi&show_icons=true&theme=transparent) ![Top Langs](https://github-stats-extended-frontend-orcin.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing,Perl,Javascript,VHDL&size_weight=1&count_weight=0.5&langs_count=10&layout=compact&role=OWNER,COLLABORATOR)
 -->
 
 <!-- Begin HTML -->
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
     src="https://github-stats-extended-frontend-orcin.vercel.app/api?username=BobSaidHi&show=prs_merged_percentage,&show_icons=true&theme=transparent&role=OWNER,ORGANIZATION_MEMBER"
     alt="BobSaidHi's GitHub Stats" />
   <img height=200 align="center"
-    src="https://github-stats-extended-frontend-orcin.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing,JavaScript&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact&&role=OWNER,COLLABORATOR"
+    src="https://github-stats-extended-frontend-orcin.vercel.app/api/top-langs/?username=BobSaidHi&exclude_repo=&hide=Dockerfile,Processing,JavaScript,VHDL&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact&&role=OWNER,COLLABORATOR"
     alt="BobSaidHi's Most Used Languages" />
 </div>
 <!-- End HTML -->
